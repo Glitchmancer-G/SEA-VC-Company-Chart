@@ -1,0 +1,810 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emergency VCs Companies</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+
+    <style>
+        body {
+            font-family: Inter, sans-serif;
+            margin: 20px;
+            background-color: #f7f5e6;
+        }
+
+        .filter-container {
+            margin-bottom: 20px;
+        }
+
+        .filter-container label {
+            display: block;
+            margin: 5px 0;
+        }
+
+        .chart-container {
+            position: relative;
+            width: 100%;
+            height: auto;
+            margin-bottom: 40px;
+            display: flex;
+            flex-direction: row;
+            grid-row: span;
+            aspect-ratio: 2/1;
+        }
+
+        .canvas-wrapper {
+            position: relative;
+            display: inline-block;
+            width: 100%;
+            height: auto;
+            max-width: 80vw;
+            overflow-x: show;
+            padding-bottom: 50px;
+        }
+
+        canvas {
+            display: block;
+            width: 100%;
+            height: auto;
+            max-width: 100%;
+            pointer-events: auto;
+        }
+
+        .logo {
+            width: 20px;
+            height: 20px;
+            vertical-align: middle;
+            position: absolute;
+            object-fit: contain;
+            z-index: 10;
+            border: 2px solid;
+            border-radius: 4px;
+            pointer-events: none;
+            background-color: white;
+        }
+
+        .tooltip {
+            position: absolute;
+            background: rgba(0, 0, 0, 0.8);
+            color: white;
+            padding: 5px 10px;
+            border-radius: 4px;
+            font-size: 12px;
+            pointer-events: none;
+            display: none;
+            max-width: 200px;
+            z-index: 20;
+        }
+
+        .tooltip img {
+            max-width: 50px;
+            max-height: 50px;
+            margin-bottom: 5px;
+        }
+
+        .error-message {
+            color: red;
+            margin: 10px 0;
+        }
+
+        .companiesWrap {
+            display: block;
+            width: 18vw;
+            height: 80%;
+            padding: 0;
+        }
+
+        .filtered-companies {
+            display: block;
+            width: auto;
+            height: 100%;
+            overflow-y: scroll;
+            scrollbar-width: none;
+            /* Firefox */
+            -ms-overflow-style: none;
+            /* IE 10+ */
+            padding: 0px;
+        }
+
+        .filtered-companies::-webkit-scrollbar {
+            display: none;
+            /* Chrome, Safari */
+        }
+
+        .company-list {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 20px;
+        }
+
+        .company-item {
+            padding: 25px 15px;
+            border-radius: 15px;
+            color: white;
+        }
+
+        .company-item::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 95%;
+            height: 95%;
+            background: inherit;
+            background-image: var(--logo-url);
+            filter: blur(5px);
+            z-index: 0;
+            border-radius: 15px;
+        }
+
+        .company-item::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.7);
+            z-index: 1;
+            border-radius: 15px;
+        }
+
+        .company-item a {
+            position: relative;
+            margin-left: 10px;
+            text-decoration: none;
+            color: #ffffff;
+            z-index: 2;
+        }
+
+        .company-item a:hover {
+            transform: scale(1.2);
+        }
+
+        p {
+            font-size: 1.2em;
+            font-weight: 600;
+            font-family: Inter;
+        }
+
+        input,
+        option {
+            font-size: 1.1em !important;
+            font-weight: 400 !important;
+        }
+
+        input[type="checkbox"] {
+            transform: scale(1.5);
+            margin-right: 0.5em;
+            border-color: #006197;
+        }
+
+        /* Industry Dropdown Styles */
+        .industry-dropdown {
+            display: none;
+            position: absolute;
+            background-color: white;
+            border: 1px solid #ccc;
+            padding: 10px 5px;
+            border-radius: 4px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+            z-index: 30;
+            width: 500px;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+
+        .industry-dropdown.active {
+            display: block;
+        }
+
+        button {
+            color: #006197;
+            padding: 10px 20px;
+            border: 2px solid #006197;
+            border-radius: 8px;
+            font-size: 1.2em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background-color 0.3s ease, transform 0.1s ease;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+
+        .close-btn {
+            position: absolute;
+            top: 5px;
+            right: 5px;
+            cursor: pointer;
+            font-size: 1.2em;
+            color: #d33;
+        }
+
+        .industry-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+        }
+
+        .company-name {
+            position: relative;
+            font-size: 1em;
+            padding: 0;
+            margin: 0;
+            z-index: 2;
+        }
+
+        .company-invest {
+            font-size: 1em;
+            position: relative;
+            font-style: italic;
+            font-weight: normal;
+            z-index: 2;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="title">
+        <h1 style="display: flex; justify-content: center;">Emergency VCs Companies</h1>
+    </div>
+
+    <div id="errorContainer" class="error-message"></div>
+
+    <div style="display: flex; flex-wrap: nowrap; flex-direction: row; gap: 5%; grid-column: 2;">
+        <div class="filter-container">
+            <p>Invested Country:</p>
+            <select id="countryFilter">
+                <option value="">ALL</option>
+            </select>
+        </div>
+
+        <div class="filter-container" style="width: 100%;">
+            <p>Funding Stage:</p>
+            <div style="display: flex; flex-wrap: nowrap; justify-content: space-around;">
+                <label><input type="checkbox" name="stage" value="Growth Stage">Growth Stage</label>
+                <label><input type="checkbox" name="stage" value="Pre-Seed">Pre-Seed</label>
+                <label><input type="checkbox" name="stage" value="Seed">Seed</label>
+                <label><input type="checkbox" name="stage" value="Pre-Series A">Pre-Series A</label>
+                <label><input type="checkbox" name="stage" value="Series A">Series A</label>
+                <label><input type="checkbox" name="stage" value="Series B">Series B</label>
+                <label><input type="checkbox" name="stage" value="Above Series B">Above Series B</label>
+                <label><input type="checkbox" name="stage" value="Pre-IPO">Pre-IPO</label>
+            </div>
+        </div>
+    </div>
+
+    <div class="filter-container">
+        <button id="industryButton" class="p-2 bg-blue-500 text-white rounded">Industry:</button>
+        <div id="industryDropdown" class="industry-dropdown">
+            <span class="close-btn" id="closeDropdown">&times;</span>
+            <div class="industry-grid">
+                <div>
+                    <label>Technology</label>
+                    <label><input type="checkbox" name="industry" value="Artificial Intelligence"> Artificial
+                        Intelligence</label>
+                    <label><input type="checkbox" name="industry" value="SaaS"> SaaS</label>
+                    <label><input type="checkbox" name="industry" value="Blockchain"> Blockchain</label>
+                    <label><input type="checkbox" name="industry" value="Web-3.0"> Web-3.0</label>
+                    <label><input type="checkbox" name="industry" value="Deep tech"> Deep tech</label>
+                    <label><input type="checkbox" name="industry" value="Deeptech"> Deeptech</label>
+                    <label><input type="checkbox" name="industry" value="Deep tech and Enterprise solutions"> Deep tech
+                        and Enterprise solutions</label>
+                    <label><input type="checkbox" name="industry" value="Industrial Software"> Industrial
+                        Software</label>
+                </div>
+                <div>
+                    <label>Finance & Commerce</label>
+                    <label><input type="checkbox" name="industry" value="Fintech"> Fintech</label>
+                    <label><input type="checkbox" name="industry" value="Fintech Enabler"> Fintech Enabler</label>
+                    <label><input type="checkbox" name="industry" value="E-commerce"> E-commerce</label>
+                    <label><input type="checkbox" name="industry" value="Marketplace"> Marketplace</label>
+                    <label><input type="checkbox" name="industry" value="Insurance"> Insurance</label>
+                    <label><input type="checkbox" name="industry" value="Insurtech"> Insurtech</label>
+                </div>
+                <div>
+                    <label>Healthcare & Biotech</label>
+                    <label><input type="checkbox" name="industry" value="Healthtech"> Healthtech</label>
+                    <label><input type="checkbox" name="industry" value="Biotech"> Biotech</label>
+                    <label><input type="checkbox" name="industry" value="Longevity"> Longevity</label>
+                </div>
+                <div>
+                    <label>Sustainability & Environment</label>
+                    <label><input type="checkbox" name="industry" value="Sustainability/Impact Investment">
+                        Sustainability/Impact Investment</label>
+                    <label><input type="checkbox" name="industry" value="Renewable Energy"> Renewable Energy</label>
+                    <label><input type="checkbox" name="industry" value="Climate Tech"> Climate Tech</label>
+                    <label><input type="checkbox" name="industry" value="ClimateTech"> ClimateTech</label>
+                    <label><input type="checkbox" name="industry" value="Circular Economy"> Circular Economy</label>
+                    <label><input type="checkbox" name="industry" value="Regenerative Agriculture"> Regenerative
+                        Agriculture</label>
+                </div>
+                <div>
+                    <label>Agriculture & Food</label>
+                    <label><input type="checkbox" name="industry" value="Agritech"> Agritech</label>
+                    <label><input type="checkbox" name="industry" value="Foodtech"> Foodtech</label>
+                    <label><input type="checkbox" name="industry" value="F&B"> F&B</label>
+                </div>
+                <div>
+                    <label>Education & HR</label>
+                    <label><input type="checkbox" name="industry" value="Edutech"> Edutech</label>
+                    <label><input type="checkbox" name="industry" value="Human Resources"> Human Resources</label>
+                    <label><input type="checkbox" name="industry" value="Future of Work"> Future of Work</label>
+                    <label><input type="checkbox" name="industry" value="Workflow/Productivity">
+                        Workflow/Productivity</label>
+                </div>
+                <div>
+                    <label>Media & Entertainment</label>
+                    <label><input type="checkbox" name="industry" value="Media"> Media</label>
+                    <label><input type="checkbox" name="industry" value="Adtech/Marketing"> Adtech/Marketing</label>
+                    <label><input type="checkbox" name="industry" value="Gaming"> Gaming</label>
+                    <label><input type="checkbox" name="industry" value="Entertainment"> Entertainment</label>
+                </div>
+                <div>
+                    <label>Logistics & Mobility</label>
+                    <label><input type="checkbox" name="industry" value="Logistics"> Logistics</label>
+                    <label><input type="checkbox" name="industry" value="Mobility"> Mobility</label>
+                    <label><input type="checkbox" name="industry" value="Transportation"> Transportation</label>
+                    <label><input type="checkbox" name="industry" value="Travel"> Travel</label>
+                    <label><input type="checkbox" name="industry" value="Tourism"> Tourism</label>
+                </div>
+                <div>
+                    <label>Real Estate & Infrastructure</label>
+                    <label><input type="checkbox" name="industry" value="Proptech"> Proptech</label>
+                    <label><input type="checkbox" name="industry" value="Smart City"> Smart City</label>
+                </div>
+                <div>
+                    <label>Consumer & Retail</label>
+                    <label><input type="checkbox" name="industry" value="Consumer"> Consumer</label>
+                    <label><input type="checkbox" name="industry" value="Consumer & Retail"> Consumer & Retail</label>
+                    <label><input type="checkbox" name="industry" value="Consumer Goods"> Consumer Goods</label>
+                    <label><input type="checkbox" name="industry" value="Consumer Tech"> Consumer Tech</label>
+                    <label><input type="checkbox" name="industry" value="D2C"> D2C</label>
+                </div>
+                <div>
+                    <label>Business & Enterprise</label>
+                    <label><input type="checkbox" name="industry" value="B2B"> B2B</label>
+                    <label><input type="checkbox" name="industry" value="Enterprise"> Enterprise</label>
+                </div>
+                <div>
+                    <label>Other</label>
+                    <label><input type="checkbox" name="industry" value="Non-Tech Ventures"> Non-Tech Ventures</label>
+                    <label><input type="checkbox" name="industry" value="Space Tech"> Space Tech</label>
+                    <label><input type="checkbox" name="industry" value="Agnostic"> Agnostic</label>
+                    <label><input type="checkbox" name="industry" value="Sector Agnostic"> Sector Agnostic</label>
+                    <label><input type="checkbox" name="industry" value="Sector-agnostic"> Sector-agnostic</label>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="fundingStageChart" class="chart-container">
+
+        <div class="canvas-wrapper" id="canvasWrapper">
+            <div id="fundingStageLabels"></div>
+            <canvas id="fundingStageCanvas"></canvas>
+            <div class="tooltip" id="fundingStageTooltip"></div>
+        </div>
+        <div class="companiesWrap">
+            <p style="margin-top:0;">Companies</p>
+            <div class="filtered-companies" id="filteredCompanies">
+
+                <div class="company-list"></div>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+        const countryFilter = document.getElementById('countryFilter');
+        const stageCheckboxes = document.getElementsByName('stage');
+        const industryCheckboxes = document.getElementsByName('industry');
+        const errorContainer = document.getElementById('errorContainer');
+        const fundingStageCanvas = document.getElementById('fundingStageCanvas');
+        const fundingStageLabels = document.getElementById('fundingStageLabels');
+        const fundingStageTooltip = document.getElementById('fundingStageTooltip');
+        const canvasWrapper = document.getElementById('canvasWrapper');
+        const industryButton = document.getElementById('industryButton');
+        const industryDropdown = document.getElementById('industryDropdown');
+        const closeDropdown = document.getElementById('closeDropdown');
+
+        const fundingStageCtx = fundingStageCanvas.getContext('2d');
+
+        // Chart configurations
+        const chartConfig = {
+            margin: { top: 50, right: 50, bottom: 50, left: 100 },
+            ySpacing: 20,
+            xMin: 0,
+            boxplotColor: '#b8c5f2',
+            barColor: '#4CAF50',
+            aspectRatio: 16 / 9 // Width-to-height ratio (e.g., 16:9)
+        };
+
+        // Expanded color palette for companies (15 unique colors)
+        const companyColors = [
+            "#4ECDC4",
+            "#D4A5A5",
+            "#C39BD3",
+            "#F7B7A3",
+            "#7CB5EC",
+            "#FF9999",
+            "#96CEB4",
+            "#A77BC1",
+            "#66A3CC",
+            "#45B7D1",
+            "#F28C8C",
+            "#8AC4A8",
+            "#F4A261",
+            "#B8A3D1",
+            "#E8B5B5"
+        ];
+
+        // Adjust Canvas for high-DPI screens and device width
+        function setCanvasResolution(canvas, ctx) {
+            const wrapper = canvas.parentElement;
+            const maxWidth = Math.min(wrapper.offsetWidth, window.innerWidth - 40);
+            const ratio = window.devicePixelRatio || 1;
+            const height = maxWidth / chartConfig.aspectRatio;
+
+            canvas.width = maxWidth * ratio;
+            canvas.height = height * ratio;
+            canvas.style.width = maxWidth + 'px';
+            canvas.style.height = height + 'px';
+            ctx.scale(ratio, ratio);
+        }
+
+        setCanvasResolution(fundingStageCanvas, fundingStageCtx);
+        window.addEventListener('resize', () => setCanvasResolution(fundingStageCanvas, fundingStageCtx));
+
+        // Funding stages
+        const stages = ['Growth Stage', 'Pre-Seed', 'Seed', 'Pre-Series A', 'Series A', 'Series B', 'Above Series B', 'Pre-IPO'];
+
+        let cachedCompanies = [];
+
+        // async function fetchCompanies() {
+        //     try {
+        //         errorContainer.textContent = '';
+        //         const response = await fetch('http://localhost:3000/api/companies');
+        //         if (!response.ok) {
+        //             throw new Error(`HTTP error! Status: ${response.status}`);
+        //         }
+        //         const companies = await response.json();
+        //         console.log('Fetched companies:', companies);
+        //         if (!Array.isArray(companies)) {
+        //             throw new Error('Response is not an array of companies');
+        //         }
+
+        //         cachedCompanies = companies;
+        //         populateFilters(companies); // only once at initial load
+        //         updateCharts(companies);
+        //     } catch (error) {
+        //         console.error('Error fetching companies:', error);
+        //         errorContainer.textContent = `Failed to load companies: ${error.message}. Please check if the server is running at http://localhost:3000/api/companies.`;
+        //     }
+        // }
+
+        async function fetchCompanies() {
+            try {
+                errorContainer.textContent = '';
+                const response = await fetch('/data/companies.json'); // Relative path to JSON file
+                if (!response.ok) {
+                    throw new Error(`HTTP error! Status: ${response.status}`);
+                }
+                const companies = await response.json();
+                console.log('Fetched companies:', companies);
+                if (!Array.isArray(companies)) {
+                    throw new Error('Response is not an array of companies');
+                }
+
+                cachedCompanies = companies;
+                populateFilters(companies);
+                updateCharts(companies);
+            } catch (error) {
+                console.error('Error fetching companies:', error);
+                errorContainer.textContent = `Failed to load companies: ${error.message}. Please ensure the companies.json file is present.`;
+            }
+        }
+
+        function applyFilters() {
+            updateCharts(cachedCompanies);
+        }
+
+
+        // Populate filters
+        function populateFilters(companies) {
+            const countries = new Set();
+
+            companies.forEach(company => {
+                const areas = company.properties?.interested_areas__country_?.split(';').map(s => s.trim());
+                areas?.forEach(country => {
+                    if (country && country.toLowerCase() !== 'nan' && country.toLowerCase() !== 'global') {
+                        countries.add(country);
+                    }
+                });
+            });
+
+            const sortedCountries = Array.from(countries).sort((a, b) => a.localeCompare(b));
+            countryFilter.options.length = 1;
+            sortedCountries.forEach(country => {
+                const option = document.createElement('option');
+                option.value = country;
+                option.textContent = country;
+                countryFilter.appendChild(option);
+            });
+        }
+
+        // Update charts
+        function updateCharts(companies) {
+            const selectedCountry = countryFilter.value;
+            const selectedStages = Array.from(stageCheckboxes)
+                .filter(checkbox => checkbox.checked)
+                .map(checkbox => checkbox.value);
+            const selectedIndustries = Array.from(industryCheckboxes)
+                .filter(checkbox => checkbox.checked)
+                .map(checkbox => checkbox.value);
+
+            let filteredCompanies = companies;
+            if (selectedCountry) {
+                filteredCompanies = filteredCompanies.filter(company => {
+                    const areas = company.properties?.interested_areas__country_?.split(';').map(s => s.trim()) || [];
+                    return areas.includes(selectedCountry) || areas.includes('Global');
+                });
+            }
+            if (selectedStages.length > 0) {
+                filteredCompanies = filteredCompanies.filter(company => {
+                    const stages = company.properties?.funding_stage?.split(';').map(s => s.trim());
+                    return stages?.some(stage => selectedStages.includes(stage));
+                });
+            }
+            if (selectedIndustries.length > 0) {
+                filteredCompanies = filteredCompanies.filter(company => {
+                    const industries = company.properties?.hs_industry_group?.split(',').map(s => s.trim());
+                    return industries?.some(industry => selectedIndustries.includes(industry));
+                });
+            }
+
+            const topCompanies = filteredCompanies
+                .filter(company => company.properties?.parsed_investment?.midpoint !== null)
+                .sort(() => Math.random() - 0.5)
+                .slice(0, 50);
+
+            updateFundingStageChart(filteredCompanies);
+
+            updateFilteredCompanies(filteredCompanies);
+        }
+
+        // Draw boxplot chart with funding stages as columns
+        function updateFundingStageChart(companies) {
+            fundingStageCtx.clearRect(0, 0, fundingStageCanvas.width, fundingStageCanvas.height);
+            fundingStageLabels.innerHTML = '';
+            fundingStageTooltip.style.display = 'none';
+
+            if (companies.length === 0) {
+                fundingStageCtx.fillStyle = 'black';
+                fundingStageCtx.fillText('No data available', fundingStageCanvas.width / (2 * window.devicePixelRatio), chartConfig.margin.top / 2);
+                return;
+            }
+
+            const companiesByStage = stages.reduce((acc, stage) => {
+                acc[stage] = companies.filter(company => {
+                    const lastStage = company.properties?.funding_stage?.split(';').pop()?.trim();
+                    return lastStage === stage;
+                });
+                return acc;
+            }, {});
+
+            const columnWidth = (fundingStageCanvas.width / window.devicePixelRatio - chartConfig.margin.left - chartConfig.margin.right) / stages.length;
+            const startX = chartConfig.margin.left;
+
+            fundingStageCtx.font = '16px Inter';
+            fundingStageCtx.fillStyle = '#333';
+            fundingStageCtx.fillText('Emergency Market VCs (2025 August)', fundingStageCanvas.width / (2 * window.devicePixelRatio), chartConfig.margin.top / 2);
+
+            // Set consistent styles for axes and labels
+            fundingStageCtx.strokeStyle = 'black'; // Black for axes
+            fundingStageCtx.fillStyle = 'black';   // Black for text
+            fundingStageCtx.beginPath();
+            fundingStageCtx.moveTo(chartConfig.margin.left, fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.bottom);
+            fundingStageCtx.lineTo(fundingStageCanvas.width / window.devicePixelRatio - chartConfig.margin.right, fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.bottom);
+            fundingStageCtx.stroke();
+
+            stages.forEach((stage, index) => {
+                const x = startX + index * columnWidth;
+                fundingStageCtx.beginPath();
+                fundingStageCtx.moveTo(x, fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.bottom);
+                fundingStageCtx.lineTo(x, fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.bottom + 5);
+                fundingStageCtx.stroke();
+                fundingStageCtx.fillText(stage, x + columnWidth / 2 - stage.length * 3, fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.bottom + 20);
+                fundingStageCtx.beginPath();
+                fundingStageCtx.moveTo(x, chartConfig.margin.top);
+                fundingStageCtx.lineTo(x, fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.bottom);
+                fundingStageCtx.setLineDash([5, 5]);
+                fundingStageCtx.stroke();
+                fundingStageCtx.setLineDash([]);
+            });
+
+            const maxInvestment = Math.max(...companies.map(c => c.properties.parsed_investment.max / 1000000), 1);
+            const yScale = (fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.top - chartConfig.margin.bottom) / maxInvestment;
+            fundingStageCtx.beginPath();
+            fundingStageCtx.moveTo(chartConfig.margin.left, fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.bottom);
+            fundingStageCtx.lineTo(chartConfig.margin.left, chartConfig.margin.top);
+            fundingStageCtx.stroke();
+            fundingStageCtx.fillText('Cheque Size (USD Millions)', chartConfig.margin.left - 80, chartConfig.margin.top - 10);
+
+            const yTickCount = 15;
+            for (let i = 0; i <= yTickCount; i++) {
+                const y = fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.bottom - (i * (fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.top - chartConfig.margin.bottom) / maxInvestment * (maxInvestment / yTickCount));
+                const value = (i * maxInvestment) / yTickCount;
+                fundingStageCtx.beginPath();
+                fundingStageCtx.moveTo(chartConfig.margin.left - 5, y);
+                fundingStageCtx.lineTo(chartConfig.margin.left, y);
+                fundingStageCtx.stroke();
+                fundingStageCtx.fillText(value.toFixed(1), chartConfig.margin.left - 60, y + 5);
+            }
+
+            const plotData = [];
+            stages.forEach((stage, stageIndex) => {
+                const stageCompanies = companiesByStage[stage];
+                if (stageCompanies.length === 0) return;
+
+                const baseX = startX + stageIndex * columnWidth;
+                const companyCount = stageCompanies.length;
+                const companySpacing = columnWidth / (companyCount + 1);
+
+                stageCompanies.forEach((company, companyIndex) => {
+                    const xOffset = companySpacing * (companyIndex + 1);
+                    const x = baseX + xOffset;
+                    const y = fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.bottom - (company.properties.parsed_investment.midpoint / 1000000) * yScale;
+                    const color = companyColors[companyIndex % companyColors.length];
+
+                    plotData.push({
+                        min: company.properties.parsed_investment.min / 1000000,
+                        max: company.properties.parsed_investment.max / 1000000,
+                        midpoint: company.properties.parsed_investment.midpoint / 1000000,
+                        x,
+                        y,
+                        name: company.properties.name,
+                        logoUrl: company.properties?.hs_logo_url || 'https://via.placeholder.com/50x50'
+                    });
+
+                    const minY = fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.bottom - (company.properties.parsed_investment.min / 1000000) * yScale;
+                    const maxY = fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.bottom - (company.properties.parsed_investment.max / 1000000) * yScale;
+                    fundingStageCtx.beginPath();
+                    fundingStageCtx.strokeStyle = color;
+                    fundingStageCtx.lineWidth = 2;
+                    fundingStageCtx.moveTo(x, minY);
+                    fundingStageCtx.lineTo(x, maxY);
+                    fundingStageCtx.stroke();
+
+                    fundingStageCtx.beginPath();
+                    fundingStageCtx.fillStyle = color;
+                    fundingStageCtx.arc(x, minY, 3, 0, 2 * Math.PI);
+                    fundingStageCtx.fill();
+                    fundingStageCtx.beginPath();
+                    fundingStageCtx.arc(x, maxY, 3, 0, 2 * Math.PI);
+                    fundingStageCtx.fill();
+
+                    const anchor = document.createElement('a');
+                    anchor.href = company.properties?.website || '#'; // Default to '#' if no website
+                    anchor.target = '_blank'; // Opens in a new tab
+                    anchor.rel = 'noopener noreferrer'; // Security best practice for target="_blank"
+
+                    const logoImg = document.createElement('img');
+                    logoImg.src = company.properties?.hs_logo_url || 'https://via.placeholder.com/20x20';
+                    logoImg.className = 'logo';
+                    logoImg.style.left = `${x - 10}px`;
+                    logoImg.style.top = `${y - 10}px`;
+                    logoImg.style.borderColor = color;
+                    logoImg.onerror = () => { logoImg.src = 'https://via.placeholder.com/20x20'; };
+                    fundingStageLabels.appendChild(logoImg);
+                    logoImg.appendChild(anchor);
+
+                });
+            });
+
+            fundingStageCanvas.onmousemove = (e) => {
+                console.log('Mouse move detected');
+                const rect = fundingStageCanvas.getBoundingClientRect();
+                const ratio = window.devicePixelRatio || 1;
+                const mouseX = (e.clientX - rect.left);
+                const mouseY = (e.clientY - rect.top);
+
+                let tooltipContent = null;
+                let tooltipX = 0;
+                let tooltipY = 0;
+
+                plotData.forEach(data => {
+                    const dx = mouseX - data.x;
+                    const dy = mouseY - data.y;
+                    if (Math.sqrt(dx * dx + dy * dy) < 15) {
+                        tooltipContent = `<img src="${data.logoUrl}" onerror="this.src='https://via.placeholder.com/50x50'"><br> ${data.name}<br>Max: $${data.max.toFixed(1)}M<br>Min: $${data.min.toFixed(1)}M`;
+                        tooltipX = (e.clientX - rect.left) + 10;
+                        tooltipY = (e.clientY - rect.top) - 10;
+                    }
+                });
+
+                if (tooltipContent) {
+                    fundingStageTooltip.innerHTML = tooltipContent;
+                    fundingStageTooltip.style.left = `${tooltipX}px`;
+                    fundingStageTooltip.style.top = `${tooltipY}px`;
+                    fundingStageTooltip.style.display = 'block';
+                } else {
+                    fundingStageTooltip.style.display = 'none';
+                }
+            };
+
+            fundingStageCanvas.onmouseout = () => {
+                fundingStageTooltip.style.display = 'none';
+            };
+        }
+
+        // Update filtered companies list
+        function updateFilteredCompanies(companies) {
+            const companyList = document.querySelector('.company-list');
+            companyList.innerHTML = ''; // Clear previous list
+
+            companies.forEach(company => {
+                if (company.properties?.parsed_investment?.midpoint !== null) {
+                    const companyItem = document.createElement('div');
+                    companyItem.className = 'company-item';
+
+                    // Set background image using the company logo
+                    const logoUrl = company.properties?.hs_logo_url || 'https://via.placeholder.com/50x50';
+                    companyItem.style.backgroundImage = `url(${logoUrl})`;
+                    companyItem.style.backgroundSize = 'cover';
+                    companyItem.style.backgroundPosition = 'center';
+                    companyItem.style.position = 'relative';
+
+                    // Add frosted glass effect with ::before pseudo-element
+                    companyItem.style.setProperty('--logo-url', `url(${logoUrl})`);
+
+                    const name = document.createElement('p');
+                    name.className = 'company-name';
+                    name.textContent = company.properties.name || 'Unknown';
+
+                    const investment = document.createElement('p');
+                    investment.className = 'company-invest';
+                    investment.textContent = `${company.properties.investment}`;
+
+                    const websiteLink = document.createElement('a');
+                    websiteLink.href = company.properties?.website || '#';
+                    websiteLink.target = '_blank';
+                    websiteLink.rel = 'noopener noreferrer';
+                    websiteLink.innerHTML = '<i class="fas fa-globe"></i>'; // Website icon (Unicode globe)
+
+                    companyItem.appendChild(name);
+                    companyItem.appendChild(investment);
+                    companyItem.appendChild(websiteLink);
+                    companyList.appendChild(companyItem);
+                }
+            });
+        }
+
+        // Event listeners
+        countryFilter.addEventListener('change', applyFilters);
+
+        Array.from(stageCheckboxes).forEach(checkbox => checkbox.addEventListener('change', applyFilters));
+        Array.from(industryCheckboxes).forEach(checkbox => checkbox.addEventListener('change', () => {
+            industryDropdown.classList.remove('active');
+            applyFilters();
+        }));
+
+        // Industry Dropdown Toggle
+        industryButton.addEventListener('click', () => {
+            industryDropdown.classList.toggle('active');
+        });
+
+        closeDropdown.addEventListener('click', () => {
+            industryDropdown.classList.remove('active');
+        });
+
+        // Initial fetch
+        fetchCompanies();
+    </script>
+</body>
+
+</html>

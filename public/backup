@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top VC Companies Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        .filter-container {
+            margin-bottom: 20px;
+        }
+
+        .filter-container label {
+            display: block;
+            margin: 5px 0;
+        }
+
+        .chart-container {
+            position: relative;
+            width: 100%;
+            height: auto;
+            margin-bottom: 40px;
+        }
+
+        .canvas-wrapper {
+            position: relative;
+            display: inline-block;
+            width: 100%;
+            height: auto;
+            max-width: 100vw;
+            overflow-x: hidden;
+            padding-bottom: 50px;
+        }
+
+        canvas {
+            display: block;
+            width: 100%;
+            height: auto;
+            max-width: 100%;
+        }
+
+        select[multiple] {
+            width: 200px;
+            height: 100px;
+        }
+
+        .logo {
+            width: 80px;
+            height: 50px;
+            vertical-align: middle;
+            position: absolute;
+        }
+
+        .tooltip {
+            position: absolute;
+            background: rgba(0, 0, 0, 0.8);
+            color: white;
+            padding: 5px 10px;
+            border-radius: 4px;
+            font-size: 12px;
+            pointer-events: none;
+            display: none;
+            max-width: 200px;
+        }
+
+        .tooltip img {
+            max-width: 50px;
+            max-height: 50px;
+            margin-bottom: 5px;
+        }
+
+        .error-message {
+            color: red;
+            margin: 10px 0;
+        }
+
+        .y-axis-labels {
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Top VC Companies Dashboard</h1>
+    <div id="errorContainer" class="error-message"></div>
+
+    <div class="filter-container">
+        <label>Filter by Country:</label>
+        <select id="countryFilter">
+            <option value="">All</option>
+        </select>
+    </div>
+
+    <div class="filter-container">
+        <label>Filter by Stage:</label>
+        <select id="stageFilter" multiple>
+            <option value="Pre-Seed">Pre-Seed</option>
+            <option value="Seed">Seed</option>
+            <option value="Pre-Series A">Pre-Series A</option>
+            <option value="Series A">Series A</option>
+            <option value="Series B">Series B</option>
+            <option value="Above Series B">Above Series B</option>
+            <option value="Pre-IPO">Pre-IPO</option>
+        </select>
+    </div>
+
+    <div class="filter-container">
+        <label>Filter by Industry:</label>
+        <div>
+            <div>
+                <label>Technology</label>
+                <label><input type="checkbox" name="industry" value="Artificial Intelligence"> Artificial
+                    Intelligence</label>
+                <label><input type="checkbox" name="industry" value="SaaS"> SaaS</label>
+                <label><input type="checkbox" name="industry" value="Blockchain"> Blockchain</label>
+                <label><input type="checkbox" name="industry" value="Web-3.0"> Web-3.0</label>
+                <label><input type="checkbox" name="industry" value="Deep tech"> Deep tech</label>
+                <label><input type="checkbox" name="industry" value="Deeptech"> Deeptech</label>
+                <label><input type="checkbox" name="industry" value="Deep tech and Enterprise solutions"> Deep tech and
+                    Enterprise solutions</label>
+                <label><input type="checkbox" name="industry" value="Industrial Software"> Industrial Software</label>
+            </div>
+            <div>
+                <label>Finance & Commerce</label>
+                <label><input type="checkbox" name="industry" value="Fintech"> Fintech</label>
+                <label><input type="checkbox" name="industry" value="Fintech Enabler"> Fintech Enabler</label>
+                <label><input type="checkbox" name="industry" value="E-commerce"> E-commerce</label>
+                <label><input type="checkbox" name="industry" value="Marketplace"> Marketplace</label>
+                <label><input type="checkbox" name="industry" value="Insurance"> Insurance</label>
+                <label><input type="checkbox" name="industry" value="Insurtech"> Insurtech</label>
+            </div>
+            <div>
+                <label>Healthcare & Biotech</label>
+                <label><input type="checkbox" name="industry" value="Healthtech"> Healthtech</label>
+                <label><input type="checkbox" name="industry" value="Biotech"> Biotech</label>
+                <label><input type="checkbox" name="industry" value="Longevity"> Longevity</label>
+            </div>
+            <div>
+                <label>Sustainability & Environment</label>
+                <label><input type="checkbox" name="industry" value="Sustainability/Impact Investment">
+                    Sustainability/Impact Investment</label>
+                <label><input type="checkbox" name="industry" value="Renewable Energy"> Renewable Energy</label>
+                <label><input type="checkbox" name="industry" value="Climate Tech"> Climate Tech</label>
+                <label><input type="checkbox" name="industry" value="ClimateTech"> ClimateTech</label>
+                <label><input type="checkbox" name="industry" value="Circular Economy"> Circular Economy</label>
+                <label><input type="checkbox" name="industry" value="Regenerative Agriculture"> Regenerative
+                    Agriculture</label>
+            </div>
+            <div>
+                <label>Agriculture & Food</label>
+                <label><input type="checkbox" name="industry" value="Agritech"> Agritech</label>
+                <label><input type="checkbox" name="industry" value="Foodtech"> Foodtech</label>
+                <label><input type="checkbox" name="industry" value="F&B"> F&B</label>
+            </div>
+            <div>
+                <label>Education & HR</label>
+                <label><input type="checkbox" name="industry" value="Edutech"> Edutech</label>
+                <label><input type="checkbox" name="industry" value="Human Resources"> Human Resources</label>
+                <label><input type="checkbox" name="industry" value="Future of Work"> Future of Work</label>
+                <label><input type="checkbox" name="industry" value="Workflow/Productivity">
+                    Workflow/Productivity</label>
+            </div>
+            <div>
+                <label>Media & Entertainment</label>
+                <label><input type="checkbox" name="industry" value="Media"> Media</label>
+                <label><input type="checkbox" name="industry" value="Adtech/Marketing"> Adtech/Marketing</label>
+                <label><input type="checkbox" name="industry" value="Gaming"> Gaming</label>
+                <label><input type="checkbox" name="industry" value="Entertainment"> Entertainment</label>
+            </div>
+            <div>
+                <label>Logistics & Mobility</label>
+                <label><input type="checkbox" name="industry" value="Logistics"> Logistics</label>
+                <label><input type="checkbox" name="industry" value="Mobility"> Mobility</label>
+                <label><input type="checkbox" name="industry" value="Transportation"> Transportation</label>
+                <label><input type="checkbox" name="industry" value="Travel"> Travel</label>
+                <label><input type="checkbox" name="industry" value="Tourism"> Tourism</label>
+            </div>
+            <div>
+                <label>Real Estate & Infrastructure</label>
+                <label><input type="checkbox" name="industry" value="Proptech"> Proptech</label>
+                <label><input type="checkbox" name="industry" value="Smart City"> Smart City</label>
+            </div>
+            <div>
+                <label>Consumer & Retail</label>
+                <label><input type="checkbox" name="industry" value="Consumer"> Consumer</label>
+                <label><input type="checkbox" name="industry" value="Consumer & Retail"> Consumer & Retail</label>
+                <label><input type="checkbox" name="industry" value="Consumer Goods"> Consumer Goods</label>
+                <label><input type="checkbox" name="industry" value="Consumer Tech"> Consumer Tech</label>
+                <label><input type="checkbox" name="industry" value="D2C"> D2C</label>
+            </div>
+            <div>
+                <label>Business & Enterprise</label>
+                <label><input type="checkbox" name="industry" value="B2B"> B2B</label>
+                <label><input type="checkbox" name="industry" value="Enterprise"> Enterprise</label>
+            </div>
+            <div>
+                <label>Other</label>
+                <label><input type="checkbox" name="industry" value="Non-Tech Ventures"> Non-Tech Ventures</label>
+                <label><input type="checkbox" name="industry" value="Space Tech"> Space Tech</label>
+                <label><input type="checkbox" name="industry" value="Agnostic"> Agnostic</label>
+                <label><input type="checkbox" name="industry" value="Sector Agnostic"> Sector Agnostic</label>
+                <label><input type="checkbox" name="industry" value="Sector-agnostic"> Sector-agnostic</label>
+            </div>
+        </div>
+    </div>
+
+    <h2>Top 10 Companies Investment Distribution by Funding Stage</h2>
+    <div id="fundingStageChart" class="chart-container">
+        <div class="y-axis-labels" id="fundingStageLabels"></div>
+        <div class="canvas-wrapper" id="canvasWrapper">
+            <canvas id="fundingStageCanvas"></canvas>
+            <div class="tooltip" id="fundingStageTooltip"></div>
+        </div>
+    </div>
+
+    <script>
+        const countryFilter = document.getElementById('countryFilter');
+        const stageFilter = document.getElementById('stageFilter');
+        const industryCheckboxes = document.getElementsByName('industry');
+        const errorContainer = document.getElementById('errorContainer');
+        const fundingStageCanvas = document.getElementById('fundingStageCanvas');
+        const fundingStageLabels = document.getElementById('fundingStageLabels');
+        const fundingStageTooltip = document.getElementById('fundingStageTooltip');
+        const canvasWrapper = document.getElementById('canvasWrapper');
+
+        const fundingStageCtx = fundingStageCanvas.getContext('2d');
+
+        // Chart configurations
+        const chartConfig = {
+            margin: { top: 50, right: 50, bottom: 50, left: 100 },
+            ySpacing: 20,
+            xMin: 0,
+            boxplotColor: '#b8c5f2',
+            barColor: '#4CAF50',
+            aspectRatio: 16 / 9 // Width-to-height ratio (e.g., 16:9)
+        };
+
+        // Expanded color palette for companies (15 unique colors)
+        const companyColors = [
+            "#4ECDC4",
+            "#45B7D1",
+            "#96CEB4",
+            "#D4A5A5",
+            "#C39BD3",
+            "#F7B7A3",
+            "#7CB5EC",
+            "#FF9999",
+            "#A77BC1",
+            "#66A3CC",
+            "#F28C8C",
+            "#8AC4A8",
+            "#F4A261",
+            "#B8A3D1",
+            "#E8B5B5"
+        ];
+
+        // Adjust Canvas for high-DPI screens and device width
+        function setCanvasResolution(canvas, ctx) {
+            const wrapper = canvas.parentElement;
+            const maxWidth = Math.min(wrapper.offsetWidth, window.innerWidth - 40); // Cap at screen or wrapper width minus margins
+            console.log('maxWidth= ' + maxWidth);
+            const ratio = window.devicePixelRatio || 1;
+            console.log('devicePixelRatio= ' + ratio);
+            const height = maxWidth / chartConfig.aspectRatio; // Calculate height based on aspect ratio
+
+            // Set pixel dimensions with device pixel ratio
+            canvas.width = maxWidth * ratio;
+            console.log('canvas.width= ' + canvas.width);
+            canvas.height = height * ratio;
+            canvas.style.width = maxWidth + 'px'; // Initial CSS width in logical pixels
+            canvas.style.height = height + 'px'; // Initial CSS height in logical pixels
+            ctx.scale(ratio, ratio); // Scale context for high-DPI rendering
+        }
+
+        // Adjust wrapper size after chart rendering
+        function adjustWrapperSize() {
+            const ratio = window.devicePixelRatio || 1;
+            const wrapper = document.getElementById('canvasWrapper');
+            const canvas = document.getElementById('fundingStageCanvas');
+
+            // Get the current computed style
+            const currentWidth = parseFloat(getComputedStyle(wrapper).width);
+            const currentHeight = parseFloat(getComputedStyle(wrapper).height);
+
+            // Scale down the wrapper and canvas CSS dimensions by the inverse of device pixel ratio
+            const scaledWidth = currentWidth / ratio;
+            const scaledHeight = currentHeight / ratio;
+
+            if (canvas.style.width < currentWidth) {
+                wrapper.style.width = scaledWidth + 'px';
+                wrapper.style.height = scaledHeight + 'px';
+                canvas.style.width = scaledWidth + 'px';
+                canvas.style.height = scaledHeight + 'px';
+
+            }
+
+
+
+            console.log('Scaled wrapper width= ' + scaledWidth + ', height= ' + scaledHeight);
+        }
+
+        setCanvasResolution(fundingStageCanvas, fundingStageCtx);
+        window.addEventListener('resize', () => setCanvasResolution(fundingStageCanvas, fundingStageCtx));
+
+        // Funding stages
+        const stages = ['Growth Stage', 'Pre-Seed', 'Seed', 'Pre-Series A', 'Series A', 'Series B', 'Above Series B', 'Pre-IPO'];
+
+        // Fetch companies
+        async function fetchCompanies() {
+            try {
+                errorContainer.textContent = '';
+                const response = await fetch('http://localhost:3000/api/companies');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! Status: ${response.status}`);
+                }
+                const companies = await response.json();
+                console.log('Fetched companies:', companies);
+                if (!Array.isArray(companies)) {
+                    throw new Error('Response is not an array of companies');
+                }
+                populateFilters(companies);
+                updateCharts(companies);
+            } catch (error) {
+                console.error('Error fetching companies:', error);
+                errorContainer.textContent = `Failed to load companies: ${error.message}. Please check if the server is running at http://localhost:3000/api/companies.`;
+            }
+        }
+
+        // Populate filters
+        function populateFilters(companies) {
+            const countries = new Set();
+            companies.forEach(company => {
+                const areas = company.properties?.interested_areas__country_?.split(';').map(s => s.trim());
+                areas?.forEach(country => countries.add(country));
+            });
+            countries.forEach(country => {
+                const option = document.createElement('option');
+                option.value = country;
+                option.textContent = country;
+                countryFilter.appendChild(option);
+            });
+        }
+
+        // Update charts
+        function updateCharts(companies) {
+            const selectedCountry = countryFilter.value;
+            const selectedStages = Array.from(stageFilter.selectedOptions).map(opt => opt.value);
+            const selectedIndustries = Array.from(industryCheckboxes)
+                .filter(checkbox => checkbox.checked)
+                .map(checkbox => checkbox.value);
+
+            // Filter companies
+            let filteredCompanies = companies;
+            if (selectedCountry) {
+                filteredCompanies = filteredCompanies.filter(company =>
+                    company.properties?.interested_areas__country_?.includes(selectedCountry)
+                );
+            }
+            if (selectedStages.length > 0) {
+                filteredCompanies = filteredCompanies.filter(company => {
+                    const stages = company.properties?.funding_stage?.split(';').map(s => s.trim());
+                    return stages?.some(stage => selectedStages.includes(stage));
+                });
+            }
+            if (selectedIndustries.length > 0) {
+                filteredCompanies = filteredCompanies.filter(company => {
+                    const industries = company.properties?.industry_involved?.split(';').map(s => s.trim());
+                    return industries?.some(industry => selectedIndustries.includes(industry));
+                });
+            }
+
+            // Randomly select 10 companies
+            const topCompanies = filteredCompanies
+                .filter(company => company.properties?.parsed_investment?.midpoint !== null)
+                .sort(() => Math.random() - 0.5)
+                .slice(0, 50);
+
+            updateFundingStageChart(topCompanies);
+            // Adjust wrapper size after chart is rendered
+
+            // setTimeout(adjustWrapperSize, 0); // Use setTimeout to ensure chart renders first
+        }
+
+        // Draw boxplot chart with funding stages as columns
+        function updateFundingStageChart(companies) {
+            fundingStageCtx.clearRect(0, 0, fundingStageCanvas.width, fundingStageCanvas.height);
+            fundingStageLabels.innerHTML = '';
+            fundingStageTooltip.style.display = 'none';
+
+            if (companies.length === 0) {
+                fundingStageCtx.fillText('No data available', fundingStageCanvas.width / 2, fundingStageCanvas.height / 2);
+                return;
+            }
+
+            // Group companies by last funding stage
+            const companiesByStage = stages.reduce((acc, stage) => {
+                acc[stage] = companies.filter(company => {
+                    const lastStage = company.properties?.funding_stage?.split(';').pop()?.trim();
+                    return lastStage === stage;
+                });
+                return acc;
+            }, {});
+
+            // Dynamic column width based on constrained canvas width and number of stages
+            const columnWidth = (fundingStageCanvas.width / window.devicePixelRatio - chartConfig.margin.left - chartConfig.margin.right) / stages.length;
+            const startX = chartConfig.margin.left;
+
+            // Draw title
+            fundingStageCtx.font = '16px Arial';
+            fundingStageCtx.fillText('Investment Distribution by Funding Stage', fundingStageCanvas.width / (2 * window.devicePixelRatio), chartConfig.margin.top / 2);
+
+            // Draw x-axis
+            fundingStageCtx.beginPath();
+            fundingStageCtx.moveTo(chartConfig.margin.left, fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.bottom);
+            fundingStageCtx.lineTo(fundingStageCanvas.width / window.devicePixelRatio - chartConfig.margin.right, fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.bottom);
+            fundingStageCtx.stroke();
+
+            // Draw x-axis labels and column boundaries
+            stages.forEach((stage, index) => {
+                const x = startX + index * columnWidth;
+                fundingStageCtx.beginPath();
+                fundingStageCtx.moveTo(x, fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.bottom);
+                fundingStageCtx.lineTo(x, fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.bottom + 5);
+                fundingStageCtx.stroke();
+                fundingStageCtx.fillText(stage, x + columnWidth / 2 - stage.length * 3, fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.bottom + 20);
+                // Draw column boundary (optional vertical line)
+                fundingStageCtx.beginPath();
+                fundingStageCtx.moveTo(x, chartConfig.margin.top);
+                fundingStageCtx.lineTo(x, fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.bottom);
+                fundingStageCtx.setLineDash([5, 5]); // Dashed line for visibility
+                fundingStageCtx.stroke();
+                fundingStageCtx.setLineDash([]); // Reset to solid
+            });
+
+            // Draw y-axis (investment in millions)
+            const maxInvestment = Math.max(...companies.map(c => c.properties.parsed_investment.max / 1000000), 1);
+            const yScale = (fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.top - chartConfig.margin.bottom) / maxInvestment;
+            fundingStageCtx.beginPath();
+            fundingStageCtx.moveTo(chartConfig.margin.left, fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.bottom);
+            fundingStageCtx.lineTo(chartConfig.margin.left, chartConfig.margin.top);
+            fundingStageCtx.stroke();
+            fundingStageCtx.fillText('Investment (USD Millions)', chartConfig.margin.left - 80, chartConfig.margin.top - 10);
+
+            // Draw y-axis ticks (scale of 30)
+            const yTickCount = 10;
+            for (let i = 0; i <= yTickCount; i++) {
+                const y = fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.bottom - (i * (fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.top - chartConfig.margin.bottom) / maxInvestment * (maxInvestment / yTickCount));
+                const value = (i * maxInvestment) / yTickCount;
+                fundingStageCtx.beginPath();
+                fundingStageCtx.moveTo(chartConfig.margin.left - 5, y);
+                fundingStageCtx.lineTo(chartConfig.margin.left, y);
+                fundingStageCtx.stroke();
+                fundingStageCtx.fillText(value.toFixed(1), chartConfig.margin.left - 40, y + 5);
+            }
+
+            // Plot companies with unique colors in columns
+            const plotData = [];
+            stages.forEach((stage, stageIndex) => {
+                const stageCompanies = companiesByStage[stage];
+                if (stageCompanies.length === 0) return;
+
+                const baseX = startX + stageIndex * columnWidth;
+                const companyCount = stageCompanies.length;
+                const companySpacing = columnWidth / (companyCount + 1); // Even spacing based on number of companies
+
+                stageCompanies.forEach((company, companyIndex) => {
+                    const xOffset = companySpacing * (companyIndex + 1); // Offset based on company index
+                    const x = baseX + xOffset;
+                    const y = fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.bottom - (company.properties.parsed_investment.midpoint / 1000000) * yScale;
+                    const color = companyColors[companyIndex % companyColors.length];
+
+                    // Store for tooltips
+                    plotData.push({
+                        min: company.properties.parsed_investment.min / 1000000,
+                        max: company.properties.parsed_investment.max / 1000000,
+                        midpoint: company.properties.parsed_investment.midpoint / 1000000,
+                        x,
+                        y,
+                        name: company.properties.name,
+                        logoUrl: company.properties?.hs_logo_url || 'https://via.placeholder.com/50x50'
+                    });
+
+                    // Draw vertical line connecting min, midpoint, and max
+                    const minY = fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.bottom - (company.properties.parsed_investment.min / 1000000) * yScale;
+                    const maxY = fundingStageCanvas.height / window.devicePixelRatio - chartConfig.margin.bottom - (company.properties.parsed_investment.max / 1000000) * yScale;
+                    fundingStageCtx.beginPath();
+                    fundingStageCtx.strokeStyle = color;
+                    fundingStageCtx.lineWidth = 2;
+                    fundingStageCtx.moveTo(x, minY);
+                    fundingStageCtx.lineTo(x, maxY);
+                    fundingStageCtx.stroke();
+
+                    // Draw min and max dots
+                    fundingStageCtx.beginPath();
+                    fundingStageCtx.fillStyle = color;
+                    fundingStageCtx.arc(x, minY, 3, 0, 2 * Math.PI);
+                    fundingStageCtx.fill();
+                    fundingStageCtx.beginPath();
+                    fundingStageCtx.arc(x, maxY, 3, 0, 2 * Math.PI);
+                    fundingStageCtx.fill();
+
+                    // Draw midpoint square (3x size, 9px side)
+                    fundingStageCtx.beginPath();
+                    fundingStageCtx.fillStyle = color;
+                    const squareSize = 10;
+                    fundingStageCtx.fillRect(x - squareSize / 2, y - squareSize / 2, squareSize, squareSize);
+                    fundingStageCtx.fill();
+
+                    // Add y-axis logo
+                    // const yAxisImg = new Image();
+                    // yAxisImg.src = company.properties?.hs_logo_url || 'https://via.placeholder.com/80x50';
+                    // yAxisImg.className = 'logo';
+                    // yAxisImg.style.left = '10px';
+                    // yAxisImg.style.top = `${y - 25}px`;
+                    // yAxisImg.onerror = () => { yAxisImg.src = 'https://via.placeholder.com/80x50'; };
+                    // fundingStageLabels.appendChild(yAxisImg);
+                });
+            });
+
+            // Add tooltip on hover with logo
+            fundingStageCanvas.onmousemove = (e) => {
+                const rect = fundingStageCanvas.getBoundingClientRect();
+                const mouseX = e.clientX - rect.left;
+                const mouseY = e.clientY - rect.top;
+
+                let tooltipContent = null;
+                let tooltipX = 0;
+                let tooltipY = 0;
+
+                plotData.forEach(data => {
+                    const dx = mouseX - data.x;
+                    const dy = mouseY - data.y;
+                    if (Math.sqrt(dx * dx + dy * dy) < 10) {
+                        tooltipContent = `<img src="${data.logoUrl}" onerror="this.src='https://via.placeholder.com/50x50'"><br>Company: ${data.name}<br>Min: $${data.min.toFixed(1)}M<br>Max: $${data.max.toFixed(1)}M`;
+                        tooltipX = mouseX + 10;
+                        tooltipY = mouseY - 10;
+                    }
+                });
+
+                if (tooltipContent) {
+                    fundingStageTooltip.innerHTML = tooltipContent;
+                    fundingStageTooltip.style.left = `${tooltipX}px`;
+                    fundingStageTooltip.style.top = `${tooltipY}px`;
+                    fundingStageTooltip.style.display = 'block';
+                } else {
+                    fundingStageTooltip.style.display = 'none';
+                }
+            };
+
+            fundingStageCanvas.onmouseout = () => {
+                fundingStageTooltip.style.display = 'none';
+            };
+        }
+
+        // Event listeners
+        countryFilter.addEventListener('change', fetchCompanies);
+        stageFilter.addEventListener('change', fetchCompanies);
+        industryCheckboxes.forEach(checkbox => checkbox.addEventListener('change', fetchCompanies));
+
+        // Initial fetch
+        fetchCompanies();
+    </script>
+</body>
+
+</html>
