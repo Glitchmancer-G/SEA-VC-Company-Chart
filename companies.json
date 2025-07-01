@@ -1,0 +1,3980 @@
+[
+  {
+    "id": "35024799140",
+    "properties": {
+      "createdate": "2025-06-13T06:27:32.453Z",
+      "email_representative": "Amiyandra@1982.vc",
+      "funding_stage": "Pre-Seed;Seed",
+      "hs_industry_group": "Artificial Intelligence, Marketplace, SaaS, Fintech, Proptech, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.506Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/79ae522a-c45a-4895-a232-ccebce3dafc1",
+      "hs_object_id": "35024799140",
+      "interested_areas__country_": "Indonesia;Singapore;Thailand",
+      "investment": "$500.0K - $1.0M",
+      "name": "1982 Ventures",
+      "notable_portfolio": "Mobee, Baskit, Triple A, Wagely, Bluesheets, Fazpass, HiPajak, Orderfaz, iPiD, Gozayaan, Pasar Mikro, Brick, Luna Pos, Truely, Monit, Untukmu.ai,",
+      "venture_type": "Venture Capital",
+      "website": "https://www.1982.vc/",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 1000000,
+        "midpoint": 750000
+      }
+    },
+    "createdAt": "2025-06-13T06:27:32.453Z",
+    "updatedAt": "2025-06-23T22:57:28.506Z",
+    "archived": false
+  },
+  {
+    "id": "35019109743",
+    "properties": {
+      "createdate": "2025-06-13T06:27:32.654Z",
+      "email_representative": "kevin.chandra@500.co",
+      "funding_stage": "Pre-Seed;Seed",
+      "hs_industry_group": "Agritech, Healthtech, Artificial Intelligence, SaaS, Fintech, B2B, Renewable Energy",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.413Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/8b32fa9b-9637-4f49-b07e-a9d97ab2a1cd",
+      "hs_object_id": "35019109743",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$500.0K - $500.0K",
+      "name": "500 Global",
+      "notable_portfolio": "Carsome, Bukalapak, Grab, Carousell",
+      "venture_type": "Venture Capital",
+      "website": "https://sea.500.co/",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 500000,
+        "midpoint": 500000
+      }
+    },
+    "createdAt": "2025-06-13T06:27:32.654Z",
+    "updatedAt": "2025-06-23T22:57:28.413Z",
+    "archived": false
+  },
+  {
+    "id": "35015780771",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.457Z",
+      "email_representative": "Alexa@tinmen.asia",
+      "funding_stage": "Series A",
+      "hs_industry_group": "Marketplace, SaaS, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.505Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/eb80fe71-086b-45f0-a1f3-024453a41b10",
+      "hs_object_id": "35015780771",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$2.0M - $4.0M",
+      "name": "Tin Men Capital",
+      "notable_portfolio": "Glife, Globaltix, Ailytics, Hubble",
+      "venture_type": "Venture Capital",
+      "website": "https://Tinmen.asia",
+      "parsed_investment": {
+        "min": 2000000,
+        "max": 4000000,
+        "midpoint": 3000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.457Z",
+    "updatedAt": "2025-06-23T22:57:28.505Z",
+    "archived": false
+  },
+  {
+    "id": "35018395451",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.457Z",
+      "email_representative": "yanugrah@accel.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Sustainability/Impact Investment, Artificial Intelligence, Marketplace, SaaS, Fintech, E-commerce, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.411Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/a2e37b73-3afe-4075-8bb0-a60fad173f58",
+      "hs_object_id": "35018395451",
+      "interested_areas__country_": "Indonesia",
+      "investment": "$1.0M - $15.0M",
+      "name": "Accel",
+      "notable_portfolio": "Xendit, Pluang, Astro",
+      "venture_type": "Venture Capital",
+      "website": "https://www.accel.com/",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 15000000,
+        "midpoint": 8000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.457Z",
+    "updatedAt": "2025-06-23T22:57:28.411Z",
+    "archived": false
+  },
+  {
+    "id": "35023590824",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.457Z",
+      "email_representative": "jozua.pung@rwi.genting",
+      "funding_stage": "Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Artificial Intelligence, Marketplace, Adtech/Marketing, SaaS, Non-Tech Ventures, Fintech, Web-3.0, E-commerce, Gaming, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.012Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/1ff42742-34f1-4d4f-9ef2-981b42661d2d",
+      "hs_object_id": "35023590824",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$1.0M - $1.0M",
+      "name": "Genting Ventures",
+      "notable_portfolio": "Bukalapak, Hoolah, Lendela, Transak, Eratani, Gimo,",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://www.gentingventures.genting/",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 1000000,
+        "midpoint": 1000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.457Z",
+    "updatedAt": "2025-06-23T22:57:28.012Z",
+    "archived": false
+  },
+  {
+    "id": "35029511845",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.457Z",
+      "email_representative": "Brian@xanetwork.co",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Pre-IPO",
+      "hs_industry_group": "Agritech, Healthtech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, SaaS, Fintech, Web-3.0, E-commerce, Gaming, Proptech, B2B, Renewable Energy",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.024Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/95c01943-82c7-480f-850e-ba2c8de8aecb",
+      "hs_object_id": "35029511845",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$50.0K - $500.0K",
+      "name": "XA Network",
+      "notable_portfolio": "Neuron Mobility, X.ai, Canva, Groq, StaffInc, Kopital Ventures, Turtletree Labs, Nextgen Foods",
+      "venture_type": "Platform",
+      "website": "https://www.xanetwork.co",
+      "parsed_investment": {
+        "min": 50000,
+        "max": 500000,
+        "midpoint": 275000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.457Z",
+    "updatedAt": "2025-06-23T22:57:28.024Z",
+    "archived": false
+  },
+  {
+    "id": "35030149923",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.457Z",
+      "email_representative": "taka@quona.com",
+      "funding_stage": "Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Fintech",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.852Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/96d4814c-aa63-4ba3-b4f6-67b9dcfbb809",
+      "hs_object_id": "35030149923",
+      "interested_areas__country_": "Indonesia;Singapore;Vietnam;Thailand",
+      "investment": "$4.0M - $6.0M",
+      "name": "Quona Capital",
+      "notable_portfolio": "Sunday, Julo",
+      "venture_type": "Venture Capital",
+      "website": "https://quona.com/",
+      "parsed_investment": {
+        "min": 4000000,
+        "max": 6000000,
+        "midpoint": 5000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.457Z",
+    "updatedAt": "2025-06-23T22:57:27.852Z",
+    "archived": false
+  },
+  {
+    "id": "35030730645",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.458Z",
+      "email_representative": "kelvin@wavemaker.vc",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.361Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/45829b76-0f39-446f-b02c-abf0a192e1c6",
+      "hs_object_id": "35030730645",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$500.0K - $1.5M",
+      "name": "Wavemaker Partners",
+      "notable_portfolio": "Moka, Fit Hub, Sirka, Verihubs, Soul Parking",
+      "venture_type": "Venture Capital",
+      "website": "https://wavemaker.vc/",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 1500000,
+        "midpoint": 1000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.458Z",
+    "updatedAt": "2025-06-23T22:57:28.361Z",
+    "archived": false
+  },
+  {
+    "id": "35033050214",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.458Z",
+      "email_representative": "umar@hasan.vc",
+      "funding_stage": "Pre-Seed;Seed",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Fintech, Web-3.0, E-commerce, Gaming, Proptech, B2B, Renewable Energy",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.362Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/4e439388-f289-4904-8c11-dab503325b58",
+      "hs_object_id": "35033050214",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$60.0K - $250.0K",
+      "name": "HASAN.VC",
+      "notable_portfolio": "Qara’a, Akal, PilgimPal, Zayn.fi, Durioo+, Reyhut, GoBarakah",
+      "venture_type": "Venture Capital",
+      "website": "https://hasan.vc",
+      "parsed_investment": {
+        "min": 60000,
+        "max": 250000,
+        "midpoint": 155000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.458Z",
+    "updatedAt": "2025-06-23T22:57:28.362Z",
+    "archived": false
+  },
+  {
+    "id": "35029098153",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.459Z",
+      "email_representative": "pitch@avv.co",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "Agritech, Healthtech, Edutech, Artificial Intelligence, Marketplace, Adtech/Marketing, Logistics, SaaS, Fintech, Web-3.0, Gaming, B2B, Renewable Energy, Future of Work",
+      "hs_lastmodifieddate": "2025-06-30T20:40:37.032Z",
+      "hs_logo_url": "https://46071435.fs1.hubspotusercontent-na1.net/hubfs/46071435/2025%20SEA%20VC%20Company%20Logo/23_div_23.png",
+      "hs_object_id": "35029098153",
+      "interested_areas__country_": "Indonesia;Singapore",
+      "investment": "$500.0K - $2.0M",
+      "name": "AVV",
+      "notable_portfolio": "ApplyBoard, Sky Mavis, Turing, Trusting Social, ELSA, Techcoop",
+      "venture_type": "Venture Capital",
+      "website": "https://www.avv.co/",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 2000000,
+        "midpoint": 1250000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.459Z",
+    "updatedAt": "2025-06-30T20:40:37.032Z",
+    "archived": false
+  },
+  {
+    "id": "35029340563",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.459Z",
+      "email_representative": "investment@telkomsel.vc",
+      "funding_stage": "Seed;Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Sustainability/Impact Investment, Healthtech, Edutech, Artificial Intelligence, Adtech/Marketing, SaaS, Fintech, Web-3.0, E-commerce, B2B",
+      "hs_lastmodifieddate": "2025-06-30T20:40:59.565Z",
+      "hs_logo_url": "https://46071435.fs1.hubspotusercontent-na1.net/hubfs/46071435/2025%20SEA%20VC%20Company%20Logo/135_div_135.jpeg",
+      "hs_object_id": "35029340563",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$1.0M - $3.0M",
+      "name": "Telkomsel Ventures",
+      "notable_portfolio": "Kredivo, Halodoc, Evermos, Sekolahmu",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://www.telkomsel.vc",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 3000000,
+        "midpoint": 2000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.459Z",
+    "updatedAt": "2025-06-30T20:40:59.565Z",
+    "archived": false
+  },
+  {
+    "id": "35018395452",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.481Z",
+      "email_representative": "sea@spiral-ventures.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Agritech, Healthtech, Marketplace, Adtech/Marketing, SaaS, Fintech, Web-3.0, E-commerce, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.353Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/a39bbd48-f957-4f1f-9cea-90c57c74a2be",
+      "hs_object_id": "35018395452",
+      "interested_areas__country_": "Indonesia;Singapore;Vietnam;Whole SEA",
+      "investment": "Up to $1.0M",
+      "name": "SPIRAL VENTURES",
+      "notable_portfolio": "Bukalapak, Carsome, Coda Payments, Grab, Docquity, SwipeRX, PolicyStreet, Dagangan, Manuva, CarbonEthics, etc.",
+      "venture_type": "Venture Capital",
+      "website": "https://spiral-ventures.com/",
+      "parsed_investment": {
+        "min": 0,
+        "max": 1000000,
+        "midpoint": 500000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.481Z",
+    "updatedAt": "2025-06-23T22:57:28.353Z",
+    "archived": false
+  },
+  {
+    "id": "35029832558",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.481Z",
+      "email_representative": "michael@cocooncap.com",
+      "funding_stage": "Pre-Seed;Seed",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Fintech, Web-3.0, E-commerce, Gaming, Proptech, B2B, Renewable Energy, Deep tech and Enterprise solutions",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.024Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/ab7220ed-e196-44fa-ae53-9e7628a1e93d",
+      "hs_object_id": "35029832558",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$500.0K - $1.5M",
+      "name": "Cocoon Capital",
+      "notable_portfolio": "Buymed, Transtrack, Aprisium, Augmentus",
+      "venture_type": "Venture Capital",
+      "website": "https://cocooncap.com",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 1500000,
+        "midpoint": 1000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.481Z",
+    "updatedAt": "2025-06-23T22:57:28.024Z",
+    "archived": false
+  },
+  {
+    "id": "35015164762",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.482Z",
+      "email_representative": "martin@genesisventures.co",
+      "funding_stage": "Series A;Series B;Above Series B;Pre-IPO",
+      "hs_industry_group": "Agritech, Healthtech, Artificial Intelligence, Logistics, SaaS, Non-Tech Ventures, Fintech, E-commerce, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.506Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/fd178bcc-93fd-4337-8ed2-13d352a26a6f",
+      "hs_object_id": "35015164762",
+      "interested_areas__country_": "Indonesia;Singapore;Whole SEA",
+      "investment": "$2.0M - $5.0M",
+      "name": "Genesis Alternative Ventures",
+      "notable_portfolio": "Aonic, Trusting Social, Akulaku, Bobo box",
+      "venture_type": "Venture Capital",
+      "website": "https://www.genesisventures.co/",
+      "parsed_investment": {
+        "min": 2000000,
+        "max": 5000000,
+        "midpoint": 3500000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.482Z",
+    "updatedAt": "2025-06-23T22:57:28.506Z",
+    "archived": false
+  },
+  {
+    "id": "35017013636",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.482Z",
+      "email_representative": "alvin@muliasky.vc",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Healthtech, Adtech/Marketing, Logistics, SaaS, Non-Tech Ventures, Fintech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-30T20:37:39.287Z",
+      "hs_logo_url": "https://46071435.fs1.hubspotusercontent-na1.net/hubfs/46071435/2025%20SEA%20VC%20Company%20Logo/102_div_102.png",
+      "hs_object_id": "35017013636",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand",
+      "investment": "$100.0K - $300.0K",
+      "name": "Mulia Sky Capital",
+      "notable_portfolio": "Carsome, Reku, Tjufoo, Edukita, Se'Indonesia",
+      "venture_type": "Venture Capital",
+      "website": "https://muliasky.vc/",
+      "parsed_investment": {
+        "min": 100000,
+        "max": 300000,
+        "midpoint": 200000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.482Z",
+    "updatedAt": "2025-06-30T20:37:39.287Z",
+    "archived": false
+  },
+  {
+    "id": "35029098154",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.482Z",
+      "email_representative": "soltan@ruvento.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "Agritech, Healthtech, Edutech, Artificial Intelligence, Logistics, Human Resources, Non-Tech Ventures, Fintech, Proptech, B2B, Renewable Energy",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.982Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/6ff49dca-8c51-4d9d-84e6-1d354c35e4ea",
+      "hs_object_id": "35029098154",
+      "interested_areas__country_": "Malaysia;Whole SEA",
+      "investment": "$250.0K - $250.0K",
+      "name": "Ruvento Ventures",
+      "notable_portfolio": "GetMo, Proglix, Seeds, Semaai",
+      "venture_type": "Venture Capital",
+      "website": "https://www.ruvento.com/",
+      "parsed_investment": {
+        "min": 250000,
+        "max": 250000,
+        "midpoint": 250000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.482Z",
+    "updatedAt": "2025-06-23T22:57:27.982Z",
+    "archived": false
+  },
+  {
+    "id": "35029340564",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.482Z",
+      "email_representative": "steve@radical-asia.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Logistics, Smart City, B2B, Renewable Energy",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.983Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/79d4ebcb-aff0-49e9-9197-54fb045d627a",
+      "hs_object_id": "35029340564",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$100.0K - $500.0K",
+      "name": "The Radical Fund",
+      "notable_portfolio": "Arkadiah, Alterno, Dash Electric",
+      "venture_type": "Venture Capital",
+      "website": "https://www.theradicalfund.com/",
+      "parsed_investment": {
+        "min": 100000,
+        "max": 500000,
+        "midpoint": 300000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.482Z",
+    "updatedAt": "2025-06-23T22:57:27.983Z",
+    "archived": false
+  },
+  {
+    "id": "35029995919",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.482Z",
+      "email_representative": "Faiz@beenext.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Non-Tech Ventures, Fintech, Web-3.0, E-commerce, Gaming, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.982Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/8a40a1aa-6a44-4945-96f3-8ac98d3ce78e",
+      "hs_object_id": "35029995919",
+      "interested_areas__country_": "Indonesia;Whole SEA",
+      "investment": "$1.0M - $1.0M",
+      "name": "BEENEXT",
+      "notable_portfolio": "Amartha, Dekoruma, Ralali, PasarPolis, Jago Coffee, ESB, Akseleran, GoCement, MakaMotors, Mekari, Segari.",
+      "venture_type": "Venture Capital",
+      "website": "https://www.beenext.com",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 1000000,
+        "midpoint": 1000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.482Z",
+    "updatedAt": "2025-06-23T22:57:27.982Z",
+    "archived": false
+  },
+  {
+    "id": "35030903079",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.482Z",
+      "email_representative": "zhenzhen.ong@tenity.com",
+      "funding_stage": "Pre-Seed;Seed",
+      "hs_industry_group": "Artificial Intelligence, SaaS, Fintech, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.505Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/e9c583ce-4e26-4ba5-a88e-6285641dea69",
+      "hs_object_id": "35030903079",
+      "interested_areas__country_": "Indonesia;Singapore;Whole SEA",
+      "investment": "$50.0K - $350.0K",
+      "name": "Tenity",
+      "notable_portfolio": "Heymax AI, Staple",
+      "venture_type": "Accelerator",
+      "website": "https://Tenity.com",
+      "parsed_investment": {
+        "min": 50000,
+        "max": 350000,
+        "midpoint": 200000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.482Z",
+    "updatedAt": "2025-06-23T22:57:28.505Z",
+    "archived": false
+  },
+  {
+    "id": "35033050215",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.482Z",
+      "email_representative": "hussein.sulaiman@jdi.group",
+      "funding_stage": "Pre-Seed",
+      "hs_industry_group": "Agnostic",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.506Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/887c7f87-1790-4dd3-987c-0a1e64484427",
+      "hs_object_id": "35033050215",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$50.0K - $100.0K",
+      "name": "JDI Group",
+      "notable_portfolio": "Gignite, CClarity, SimplyWealth, ReferReach, Pipitmart",
+      "venture_type": "Venture Capital",
+      "website": "https://jdi.group",
+      "parsed_investment": {
+        "min": 50000,
+        "max": 100000,
+        "midpoint": 75000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.482Z",
+    "updatedAt": "2025-06-23T22:57:28.506Z",
+    "archived": false
+  },
+  {
+    "id": "35011486326",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.483Z",
+      "email_representative": "judy@iterative.vc",
+      "funding_stage": "Seed;Pre-Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Fintech, Web-3.0, E-commerce, Gaming, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.412Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/35cbd8db-4e66-43c6-a106-15c1d0ffe611",
+      "hs_object_id": "35011486326",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "Up to $500.0K",
+      "name": "Iterative",
+      "notable_portfolio": "SendHelper, Zi.Care, Arogga, Blitz, MedPiper",
+      "venture_type": "Venture Capital",
+      "website": "https://iterative.vc/",
+      "parsed_investment": {
+        "min": 0,
+        "max": 500000,
+        "midpoint": 250000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.483Z",
+    "updatedAt": "2025-06-23T22:57:28.412Z",
+    "archived": false
+  },
+  {
+    "id": "35018934849",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.483Z",
+      "email_representative": "info@saltventures.id",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Healthtech, Media, Adtech/Marketing, SaaS, Fintech, Web-3.0, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.505Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/815183d6-4bf1-41d6-b9cb-6f89fb5531db",
+      "hs_object_id": "35018934849",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$100.0K - $500.0K",
+      "name": "Salt Ventures",
+      "notable_portfolio": "Qoala, USS, Hangry, Folkative, dr Soap, Finfolk, Otospector",
+      "venture_type": "Venture Capital",
+      "website": "https://saltventures.id/",
+      "parsed_investment": {
+        "min": 100000,
+        "max": 500000,
+        "midpoint": 300000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.483Z",
+    "updatedAt": "2025-06-23T22:57:28.505Z",
+    "archived": false
+  },
+  {
+    "id": "35024487695",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.483Z",
+      "email_representative": "contact@doventures.vc",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Artificial Intelligence, SaaS, Non-Tech Ventures, Fintech, E-commerce, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.412Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/e15ee40c-b27f-4474-98e6-93d8ff59d9df",
+      "hs_object_id": "35024487695",
+      "interested_areas__country_": "Indonesia",
+      "investment": "$500.0K - $1.0M",
+      "name": "Do Ventures",
+      "notable_portfolio": "METUB, VUIHOC, MFAST, COOLMATE, PALEXY, BIZZI, ADVANCE",
+      "venture_type": "Venture Capital",
+      "website": "https://doventures.vc/en",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 1000000,
+        "midpoint": 750000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.483Z",
+    "updatedAt": "2025-06-23T22:57:28.412Z",
+    "archived": false
+  },
+  {
+    "id": "35030895885",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.483Z",
+      "email_representative": "rohin@sif.vc",
+      "funding_stage": "Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Logistics, Smart City, Fintech, Proptech, Renewable Energy",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.980Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/816c9e9e-7657-4c42-bca4-490245976510",
+      "hs_object_id": "35030895885",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$500.0K - $3.0M",
+      "name": "SIF.VC",
+      "notable_portfolio": "Stealth",
+      "venture_type": "Venture Capital",
+      "website": "https://SIF.vc",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 3000000,
+        "midpoint": 1750000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.483Z",
+    "updatedAt": "2025-06-23T22:57:27.980Z",
+    "archived": false
+  },
+  {
+    "id": "35032567139",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.483Z",
+      "email_representative": "tenghau.lee@kairous.com",
+      "funding_stage": "Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Healthtech, Edutech, Marketplace, SaaS, Fintech, E-commerce, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.339Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/526c2710-f465-4bde-b919-45910e2ec635",
+      "hs_object_id": "35032567139",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$1.0M - $3.0M",
+      "name": "Kairous Capital",
+      "notable_portfolio": "iPayLinks, Intrepid (exited), PangoCDP, Coolmate, Ora Group, Fast Co",
+      "venture_type": "Venture Capital",
+      "website": "https://www.kairous.com/",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 3000000,
+        "midpoint": 2000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.483Z",
+    "updatedAt": "2025-06-23T22:57:28.339Z",
+    "archived": false
+  },
+  {
+    "id": "35016784209",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.484Z",
+      "email_representative": "investments@mandiri-capital.co.id",
+      "funding_stage": "Pre-Series A;Series A;Series B;Above Series B",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Logistics, SaaS, Smart City, Fintech, Web-3.0, E-commerce, Proptech, B2B, Renewable Energy",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.339Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/287852c6-4f63-45e1-af87-030f301c08e1",
+      "hs_object_id": "35016784209",
+      "interested_areas__country_": "Indonesia;Whole SEA",
+      "investment": "$500.0K - $30.0M",
+      "name": "Mandiri Capital Indonesia",
+      "notable_portfolio": "Amartha, PrivyID, Mekari, GoTo, Ayoconnect, iSeller, Qoala",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://mandiri-capital.co.id/",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 30000000,
+        "midpoint": 15250000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.484Z",
+    "updatedAt": "2025-06-23T22:57:28.339Z",
+    "archived": false
+  },
+  {
+    "id": "35007961100",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.503Z",
+      "email_representative": "gerrard_lai@ip.mufg.jp",
+      "funding_stage": "Series A;Series B;Above Series B",
+      "hs_industry_group": "Fintech, Artificial Intelligence, Blockchain, Marketplace, SaaS, Sustainability/Impact Investment",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.362Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/c07b3d7f-1118-4f1e-ac3a-f776572669b6",
+      "hs_object_id": "35007961100",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$3.0M - $5.0M",
+      "name": "MUFG Innovation Partners",
+      "notable_portfolio": "AwanTunai, Broom, Carsome, Fazz Financial, Jack, Qoala",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://www.ip.mufg.jp/en/",
+      "parsed_investment": {
+        "min": 3000000,
+        "max": 5000000,
+        "midpoint": 4000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.503Z",
+    "updatedAt": "2025-06-23T22:57:28.362Z",
+    "archived": false
+  },
+  {
+    "id": "35028291613",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.503Z",
+      "email_representative": "alex@spaze.asia",
+      "funding_stage": "Pre-Seed;Seed",
+      "hs_industry_group": "Sustainability/Impact Investment, Edutech, Artificial Intelligence, SaaS, Fintech",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.983Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/f579c209-962c-4734-a465-9b857098363d",
+      "hs_object_id": "35028291613",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Vietnam;Thailand",
+      "investment": "Up to $350.0K",
+      "name": "Spaze Ventures",
+      "notable_portfolio": "MatchMove, Binar Academy, KIPIN, Rakamin Academy, myFirst, Flying Cape",
+      "venture_type": "Venture Capital",
+      "website": "https://spazeventures.com/",
+      "parsed_investment": {
+        "min": 0,
+        "max": 350000,
+        "midpoint": 175000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.503Z",
+    "updatedAt": "2025-06-23T22:57:27.983Z",
+    "archived": false
+  },
+  {
+    "id": "35030410658",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.503Z",
+      "email_representative": "joanne@netrove.com",
+      "funding_stage": "Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Healthtech, Edutech, Artificial Intelligence, Adtech/Marketing, Logistics, Non-Tech Ventures, E-commerce, Proptech, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.411Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/b3e57c39-beba-4e9c-bd1b-efca1ef0f804",
+      "hs_object_id": "35030410658",
+      "interested_areas__country_": "Indonesia;Singapore;Whole SEA",
+      "investment": "$3.0M - $3.0M",
+      "name": "Netrove",
+      "notable_portfolio": "Beacon Hospital, Galasys, Zapzapmath, Eat Cake Today",
+      "venture_type": "Venture Capital",
+      "website": "https://www.netrove.com",
+      "parsed_investment": {
+        "min": 3000000,
+        "max": 3000000,
+        "midpoint": 3000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.503Z",
+    "updatedAt": "2025-06-23T22:57:28.411Z",
+    "archived": false
+  },
+  {
+    "id": "35032730022",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.503Z",
+      "email_representative": "funding@angin.id",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Non-Tech Ventures, D2C, Agnostics",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.361Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/fa3fc5c0-8eca-49e8-b06b-b3ce7e6e339e",
+      "hs_object_id": "35032730022",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$30.0K - $200.0K",
+      "name": "ANGIN",
+      "notable_portfolio": "Burgreens, Green Rebel, DuAnyam, CarbonEthics, JALA",
+      "venture_type": "Investment advisory",
+      "website": "https://angin.id",
+      "parsed_investment": {
+        "min": 30000,
+        "max": 200000,
+        "midpoint": 115000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.503Z",
+    "updatedAt": "2025-06-23T22:57:28.361Z",
+    "archived": false
+  },
+  {
+    "id": "35013489685",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.504Z",
+      "email_representative": "randi@dsx.vc",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.013Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/08174c62-12f9-490e-9557-7e1b8f4b8548",
+      "hs_object_id": "35013489685",
+      "interested_areas__country_": "Whole SEA;India;Latin America",
+      "investment": "$50.0K - $200.0K",
+      "name": "DSX Ventures",
+      "notable_portfolio": "Baskit, Finfra",
+      "venture_type": "Venture Capital",
+      "website": "https://Dsx.vc",
+      "parsed_investment": {
+        "min": 50000,
+        "max": 200000,
+        "midpoint": 125000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.504Z",
+    "updatedAt": "2025-06-23T22:57:28.013Z",
+    "archived": false
+  },
+  {
+    "id": "35026830229",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.504Z",
+      "email_representative": "tania@openspace.vc",
+      "funding_stage": "Seed;Pre-Series A;Series A;Series B;Above Series B",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Artificial Intelligence, Marketplace, SaaS, Smart City, Non-Tech Ventures, Fintech, Web-3.0, E-commerce, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.412Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/a950fbd9-a1a4-4b5c-9060-b1d16434c23b",
+      "hs_object_id": "35026830229",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$3.0M - $30.0M",
+      "name": "Openspace Ventures",
+      "notable_portfolio": "Gojek, Halodoc, Kredivo, Jiwa Group, Love Bonito, Beleaf",
+      "venture_type": "Venture Capital",
+      "website": "https://openspace.vc",
+      "parsed_investment": {
+        "min": 3000000,
+        "max": 30000000,
+        "midpoint": 16500000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.504Z",
+    "updatedAt": "2025-06-23T22:57:28.412Z",
+    "archived": false
+  },
+  {
+    "id": "35026984967",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.504Z",
+      "email_representative": "ezra@venturra.com",
+      "funding_stage": "Series A;Series B;Above Series B;Pre-IPO",
+      "hs_industry_group": "Healthtech, Artificial Intelligence, Human Resources, Non-Tech Ventures, Fintech, E-commerce, Gaming, Proptech, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.354Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/74644ab2-b174-413f-960a-32bfe36ef70e",
+      "hs_object_id": "35026984967",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$1.0M - $25.0M",
+      "name": "Venturra Capital",
+      "notable_portfolio": "Grab, Carro, Sociolla, OVO, Ruangguru",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://Venturra.com",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 25000000,
+        "midpoint": 13000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.504Z",
+    "updatedAt": "2025-06-23T22:57:28.354Z",
+    "archived": false
+  },
+  {
+    "id": "35027979048",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.504Z",
+      "email_representative": "dennish.tjandra@spil.co.id",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Non-Tech Ventures, Web-3.0, E-commerce, Gaming, Proptech, B2B, Renewable Energy, D2C,",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.013Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/0181c42c-de1c-418a-b2ad-b019198b1d45",
+      "hs_object_id": "35027979048",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$200.0K - $500.0K",
+      "name": "SPIL Ventures",
+      "notable_portfolio": "Deliveree, Surplus Indonesia, Liquid8, Lahelu.com",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://www.spilventures.com/",
+      "parsed_investment": {
+        "min": 200000,
+        "max": 500000,
+        "midpoint": 350000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.504Z",
+    "updatedAt": "2025-06-23T22:57:28.013Z",
+    "archived": false
+  },
+  {
+    "id": "35029098155",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.504Z",
+      "email_representative": "santoso.samuel@moneyforward.co.jp",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Agritech, Healthtech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Fintech, Web-3.0, E-commerce, Proptech, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.339Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/4bb464f8-0e41-476d-bf3a-27e1f11ff41f",
+      "hs_object_id": "35029098155",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$500.0K - $2.0M",
+      "name": "HIRAC FUND",
+      "notable_portfolio": "GENDA (exited), Toridori (exited), Arkadiah, Return Helper",
+      "venture_type": "Venture Capital",
+      "website": "https://www.hirac.co.jp/en",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 2000000,
+        "midpoint": 1250000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.504Z",
+    "updatedAt": "2025-06-23T22:57:28.339Z",
+    "archived": false
+  },
+  {
+    "id": "35030305113",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.504Z",
+      "email_representative": "m.valentine@pnptc.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, SaaS, Smart City, Fintech, Web-3.0, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.413Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/4977e005-b87e-412d-895e-455655a2f227",
+      "hs_object_id": "35030305113",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$100.0K - $100.0K",
+      "name": "Plug and Play APAC",
+      "notable_portfolio": "Sayurbox, Chickin, Rekosistem, Brankas, Finfra",
+      "venture_type": "Venture Capital",
+      "website": "https://www.plugandplayapac.com/",
+      "parsed_investment": {
+        "min": 100000,
+        "max": 100000,
+        "midpoint": 100000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.504Z",
+    "updatedAt": "2025-06-23T22:57:28.413Z",
+    "archived": false
+  },
+  {
+    "id": "35031384926",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.504Z",
+      "email_representative": "info@sovereignscapital.com",
+      "funding_stage": "Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Artificial Intelligence, Marketplace, SaaS, Fintech, Web-3.0, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.361Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/a1794a10-4926-42da-8c3e-49a660a17e6d",
+      "hs_object_id": "35031384926",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$300.0K - $1.0M",
+      "name": "Sovereign's Capital",
+      "notable_portfolio": "Komunal, Grab, Xendit, Hactiv8, Loket, Horego, Bridestory, Titipku, Tada, Nimbly, Yummy Corp, Open Eden, Atlas, Sprout, GoKampus",
+      "venture_type": "Venture Capital",
+      "website": "https://sovereignscapital.com/",
+      "parsed_investment": {
+        "min": 300000,
+        "max": 1000000,
+        "midpoint": 650000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.504Z",
+    "updatedAt": "2025-06-23T22:57:28.361Z",
+    "archived": false
+  },
+  {
+    "id": "35033055774",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.504Z",
+      "email_representative": "investment@ocbcventura.com",
+      "funding_stage": "Seed;Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Healthtech, Media, Logistics, Non-Tech Ventures, Fintech, Proptech, B2B, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.362Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/fa51a87c-97af-4119-8904-1e8dd2e1b143",
+      "hs_object_id": "35033055774",
+      "interested_areas__country_": "Indonesia;Singapore;Malaysia;Vietnam",
+      "investment": "$500.0K - $5.0M",
+      "name": "OCBC Ventura",
+      "notable_portfolio": "Rukita, Vilo, FTL, USS Network, IDN",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://www.ocbcventura.com/",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 5000000,
+        "midpoint": 2750000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.504Z",
+    "updatedAt": "2025-06-23T22:57:28.362Z",
+    "archived": false
+  },
+  {
+    "id": "35033060640",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.504Z",
+      "email_representative": "stanley@irisvc.co",
+      "funding_stage": "Series A;Series B;Above Series B;Pre-IPO",
+      "hs_industry_group": "Sector Agnostic",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.362Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/52492baf-8366-4c64-a92a-c86ad38dd414",
+      "hs_object_id": "35033060640",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$1.0M - $4.0M",
+      "name": "Iris Capital Partners",
+      "notable_portfolio": "Techcoop, Allrites, Funding Societies, Growthwell, Ralali",
+      "venture_type": "Private Credit/Venture Debt",
+      "website": "https://irisvc.co",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 4000000,
+        "midpoint": 2500000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.504Z",
+    "updatedAt": "2025-06-23T22:57:28.362Z",
+    "archived": false
+  },
+  {
+    "id": "35033237870",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.504Z",
+      "email_representative": "fadhila@briventures.id",
+      "funding_stage": "Series A",
+      "hs_industry_group": "Fintech",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.411Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/9e7bb394-5824-40d7-94f7-744ff7a3c531",
+      "hs_object_id": "35033237870",
+      "interested_areas__country_": "Indonesia;Philippines;Vietnam",
+      "investment": "$1.0M - $1.0M",
+      "name": "BRI Ventures",
+      "notable_portfolio": "Xendit, Payfazz, Awan Tunai, Majoo, Modalku",
+      "venture_type": "Venture Capital",
+      "website": "https://www.briventures.id/",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 1000000,
+        "midpoint": 1000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.504Z",
+    "updatedAt": "2025-06-23T22:57:28.411Z",
+    "archived": false
+  },
+  {
+    "id": "35015164763",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.505Z",
+      "email_representative": "agomes@vulpesinvest.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Edutech, Artificial Intelligence, Logistics, SaaS, Fintech, E-commerce, Proptech, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.413Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/c681df82-5069-407b-8b7c-81bc935413f7",
+      "hs_object_id": "35015164763",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$50.0K - $250.0K",
+      "name": "Vulpes Ventures",
+      "notable_portfolio": "PropertyGuru, Trax, Cloudeats, Tigerhall, Sharesies",
+      "venture_type": "Venture Capital",
+      "website": "https://www.vulpesventures.com/",
+      "parsed_investment": {
+        "min": 50000,
+        "max": 250000,
+        "midpoint": 150000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.505Z",
+    "updatedAt": "2025-06-23T22:57:28.413Z",
+    "archived": false
+  },
+  {
+    "id": "35018395453",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.505Z",
+      "email_representative": "dhudson@braxton.com.sg",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Healthtech, Insurance",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.339Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/9e103323-89be-4dfb-9393-fa01446b5602",
+      "hs_object_id": "35018395453",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$500.0K - $2.0M",
+      "name": "Braxton Capital",
+      "notable_portfolio": "LivWell, Amoda.id, LiftWomen, Aktivolabs, Pangea, Bhetochar, Bang Jamin",
+      "venture_type": "Venture Capital",
+      "website": "https://braxton.com.sg",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 2000000,
+        "midpoint": 1250000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.505Z",
+    "updatedAt": "2025-06-23T22:57:28.339Z",
+    "archived": false
+  },
+  {
+    "id": "35018934850",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.505Z",
+      "email_representative": "zhenhui@artem.vc",
+      "funding_stage": "Seed;Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Sustainability/Impact Investment, Healthtech, Artificial Intelligence, Fintech, Insurtech",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.361Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/9c9975d5-55bd-4ab5-b519-d54e5d120692",
+      "hs_object_id": "35018934850",
+      "interested_areas__country_": "Indonesia;Singapore;Malaysia",
+      "investment": "$150.0K - $1.0M",
+      "name": "Artem Ventures",
+      "notable_portfolio": "Senang (embeded insurance), Kiddocare, ProtosLab and Qwork",
+      "venture_type": "Venture Capital",
+      "website": "https://www.artem.vc/",
+      "parsed_investment": {
+        "min": 150000,
+        "max": 1000000,
+        "midpoint": 575000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.505Z",
+    "updatedAt": "2025-06-23T22:57:28.361Z",
+    "archived": false
+  },
+  {
+    "id": "35027966058",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.505Z",
+      "email_representative": "amanda@w-inc.vc",
+      "funding_stage": "Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Edutech, Media, Marketplace, Adtech/Marketing, Fintech, E-commerce, Gaming, Proptech, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.339Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/03ac1727-7b80-4abc-9fc6-c4f8f7d9c387",
+      "hs_object_id": "35027966058",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand",
+      "investment": "$100.0K - $300.0K",
+      "name": "W fund",
+      "notable_portfolio": "BroilerX, Dagangan, Edukita, Jendela360, SeIndonesia, Yourpay etc",
+      "venture_type": "Venture Capital",
+      "website": "https://w-inc.vc/",
+      "parsed_investment": {
+        "min": 100000,
+        "max": 300000,
+        "midpoint": 200000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.505Z",
+    "updatedAt": "2025-06-23T22:57:28.339Z",
+    "archived": false
+  },
+  {
+    "id": "35029995920",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.505Z",
+      "email_representative": "jackson@headline.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A;Series B;Above Series B",
+      "hs_industry_group": "Artificial Intelligence, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Fintech, E-commerce, Proptech, B2B, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.429Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/9d9e1d2b-ee7c-40fd-b7e5-ca602f987d0d",
+      "hs_object_id": "35029995920",
+      "interested_areas__country_": "Indonesia",
+      "investment": "$1.0M - $8.0M",
+      "name": "Headline",
+      "notable_portfolio": "Pismo, Mistral, Tyme Group, Creditas, Zeller, WealthNavi, Groupon, Freee!, Yeahka, Newmo",
+      "venture_type": "Venture Capital",
+      "website": "https://headline.com",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 8000000,
+        "midpoint": 4500000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.505Z",
+    "updatedAt": "2025-06-23T22:57:28.429Z",
+    "archived": false
+  },
+  {
+    "id": "35032735411",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.505Z",
+      "email_representative": "elsha@genesiaventures.com",
+      "funding_stage": "Pre-Seed;Seed",
+      "hs_industry_group": "Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Logistics, Human Resources, SaaS, Fintech, Web-3.0, E-commerce, Proptech, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.853Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/720fe307-feab-4f0a-8fac-72667615514a",
+      "hs_object_id": "35032735411",
+      "interested_areas__country_": "Indonesia;Whole SEA",
+      "investment": "$100.0K - $1.0M",
+      "name": "Genesia Ventures",
+      "notable_portfolio": "Timee, Buymed, Qoala, Bobobox, Runchise, Rey",
+      "venture_type": "Venture Capital",
+      "website": "https://www.genesiaventures.com/",
+      "parsed_investment": {
+        "min": 100000,
+        "max": 1000000,
+        "midpoint": 550000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.505Z",
+    "updatedAt": "2025-06-23T22:57:27.853Z",
+    "archived": false
+  },
+  {
+    "id": "35013006092",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.512Z",
+      "email_representative": "sylvie@canopusadvisors.com",
+      "funding_stage": "Seed;Pre-Series A;Series A;Series B;Above Series B;Pre-IPO",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Non-Tech Ventures, Fintech, E-commerce, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.505Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/73fb507c-c9d8-449b-a600-accb99cfbb24",
+      "hs_object_id": "35013006092",
+      "interested_areas__country_": "Malaysia",
+      "investment": "$500.0K - $5.0M",
+      "name": "Canopus Advisors",
+      "notable_portfolio": "Fore Coffee, Chickin, TransTRACK, Staffinc, Cove Living, VFlowTech, Hydroleap, Ackcio",
+      "venture_type": "Venture Capital and Venture Debt",
+      "website": "https://www.canopusadvisors.com/",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 5000000,
+        "midpoint": 2750000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.512Z",
+    "updatedAt": "2025-06-23T22:57:28.505Z",
+    "archived": false
+  },
+  {
+    "id": "35026478252",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.512Z",
+      "email_representative": "nathan@appworks.tw",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A;Series B;Above Series B",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Non-Tech Ventures, Fintech, Web-3.0, E-commerce, Gaming, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.352Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/0dd4eb3a-e805-4e9d-902c-cd3be2641a67",
+      "hs_object_id": "35026478252",
+      "interested_areas__country_": "Indonesia;Philippines;Vietnam",
+      "investment": "$200.0K - $15.0M",
+      "name": "AppWorks",
+      "notable_portfolio": "Lalamove, Dapper Labs / Flow, Animoca Brands, 91APP, Figment, Carousell, ShopBack, 17LIVE, KKday, Transtrack, iSeller, and Travelio",
+      "venture_type": "Venture Capital",
+      "website": "https://appworks.tw/",
+      "parsed_investment": {
+        "min": 200000,
+        "max": 15000000,
+        "midpoint": 7600000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.512Z",
+    "updatedAt": "2025-06-23T22:57:28.352Z",
+    "archived": false
+  },
+  {
+    "id": "35027306386",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.512Z",
+      "email_representative": "audra@firstmovefund.com",
+      "funding_stage": "Pre-Seed",
+      "hs_industry_group": "Healthtech, Artificial Intelligence, Media, Marketplace, Non-Tech Ventures, Fintech, E-commerce, Gaming, D2C",
+      "hs_lastmodifieddate": "2025-06-30T20:38:15.845Z",
+      "hs_logo_url": "https://46071435.fs1.hubspotusercontent-na1.net/hubfs/46071435/2025%20SEA%20VC%20Company%20Logo/48_div_48.png",
+      "hs_object_id": "35027306386",
+      "interested_areas__country_": "Singapore;Malaysia;Vietnam;Thailand",
+      "investment": "$100.0K - $100.0K",
+      "name": "First Move Fund",
+      "notable_portfolio": "TjuFoo, Koppiku, 3Cat, Collektr, Decube, Notti",
+      "venture_type": "Venture Capital",
+      "website": "https://www.firstmovefund.com/",
+      "parsed_investment": {
+        "min": 100000,
+        "max": 100000,
+        "midpoint": 100000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.512Z",
+    "updatedAt": "2025-06-30T20:38:15.845Z",
+    "archived": false
+  },
+  {
+    "id": "35028465547",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.512Z",
+      "email_representative": "hello@aimventures.co",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Foodtech, Agritech, Artificial Intelligence, Web-3.0, Space Tech, Longevity, Healthtech",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.353Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/c697517d-1dcf-4fa1-a4f3-87010c2de584",
+      "hs_object_id": "35028465547",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$10.0K - $150.0K",
+      "name": "Aim Ventures",
+      "notable_portfolio": "Property Scout, IncreBio",
+      "venture_type": "Venture Capital",
+      "website": "https://www.aimventures.co",
+      "parsed_investment": {
+        "min": 10000,
+        "max": 150000,
+        "midpoint": 80000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.512Z",
+    "updatedAt": "2025-06-23T22:57:28.353Z",
+    "archived": false
+  },
+  {
+    "id": "35028471388",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.512Z",
+      "email_representative": "Gani.putra@mdi.vc",
+      "funding_stage": "Series A;Series B;Above Series B",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Marketplace, Logistics, Human Resources, SaaS, Smart City, Non-Tech Ventures, Fintech, Web-3.0, E-commerce, Gaming, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.362Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/72866ba7-49ba-4b48-b235-ee0e5c4d7f14",
+      "hs_object_id": "35028471388",
+      "interested_areas__country_": "Indonesia;Singapore;Vietnam",
+      "investment": "$1.0M - $15.0M",
+      "name": "MDI Ventures",
+      "notable_portfolio": "Kredivo, Privy, Billease, Qoala, Cermati, Amartha, Good Doctor",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://mdi.vc",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 15000000,
+        "midpoint": 8000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.512Z",
+    "updatedAt": "2025-06-23T22:57:28.362Z",
+    "archived": false
+  },
+  {
+    "id": "35029995921",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.512Z",
+      "email_representative": "mail@intudovc.com",
+      "funding_stage": "Pre-Series A;Series A;Series B;Above Series B",
+      "hs_industry_group": "Agnostic",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.024Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/3e382bcd-b70b-4f94-ad3b-646f021d7c55",
+      "hs_object_id": "35029995921",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Vietnam;Whole SEA",
+      "investment": "$1.0M - $10.0M",
+      "name": "Intudo",
+      "notable_portfolio": "Xendit, Pintu, Halodoc, JALA, Pinhome, Jago Coffee",
+      "venture_type": "Venture Capital",
+      "website": "https://intudovc.com/",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 10000000,
+        "midpoint": 5500000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.512Z",
+    "updatedAt": "2025-06-23T22:57:28.024Z",
+    "archived": false
+  },
+  {
+    "id": "35032257817",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.512Z",
+      "email_representative": "alyandra.katya@antler.co",
+      "funding_stage": "Pre-Seed",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Adtech/Marketing, Logistics, Human Resources, SaaS, Fintech, Web-3.0, E-commerce, Gaming, Proptech, B2B, Renewable Energy",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.983Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/03602465-efda-4b7e-933c-6f1865b49030",
+      "hs_object_id": "35032257817",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Vietnam",
+      "investment": "$125.0K - $250.0K",
+      "name": "Antler",
+      "notable_portfolio": "Airalo, Reebelo, Gapai",
+      "venture_type": "Venture Capital",
+      "website": "https://www.antler.co/",
+      "parsed_investment": {
+        "min": 125000,
+        "max": 250000,
+        "midpoint": 187500
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.512Z",
+    "updatedAt": "2025-06-23T22:57:27.983Z",
+    "archived": false
+  },
+  {
+    "id": "35032730023",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.512Z",
+      "email_representative": "richard.budhitresno@bigventures.vc",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Healthtech, Logistics, Non-Tech Ventures, E-commerce, B2B, D2C, F&B, Consumer Goods",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.339Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/09722cc4-d8f9-4ba8-8c14-67f405d1e40f",
+      "hs_object_id": "35032730023",
+      "interested_areas__country_": "Indonesia;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "Up to $1.0M",
+      "name": "B.I.G. Ventures",
+      "notable_portfolio": "CoLearn, Sekolahmu, Tjufoo, Primaku, Eratani, TipTip",
+      "venture_type": "Venture Capital",
+      "website": "https://bigventures.vc",
+      "parsed_investment": {
+        "min": 0,
+        "max": 1000000,
+        "midpoint": 500000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.512Z",
+    "updatedAt": "2025-06-23T22:57:28.339Z",
+    "archived": false
+  },
+  {
+    "id": "35033060641",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.512Z",
+      "email_representative": "zvc-info@zvc.vc",
+      "funding_stage": "Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Artificial Intelligence, Media, Adtech/Marketing, Fintech, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.353Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/4ed9ef82-fc2f-4b9c-9cc1-b1b621434353",
+      "hs_object_id": "35033060641",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$500.0K - $2.0M",
+      "name": "Z Venture Capital",
+      "notable_portfolio": "Amartha, IDN Media, Tiptip, Ralali, Sunday",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://zvc.vc/",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 2000000,
+        "midpoint": 1250000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.512Z",
+    "updatedAt": "2025-06-23T22:57:28.353Z",
+    "archived": false
+  },
+  {
+    "id": "35013489686",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.513Z",
+      "email_representative": "Nam.do@vinacapital.com",
+      "funding_stage": "Seed;Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Agritech, Healthtech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Fintech, E-commerce, Gaming, B2B, Renewable Energy",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.012Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/559a1f43-54c7-4a2b-99cf-c27af1a48eea",
+      "hs_object_id": "35013489686",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand",
+      "investment": "$3.0M - $5.0M",
+      "name": "VinaCapital Venture Capital Fund",
+      "notable_portfolio": "https://ventures.vinacapital.com/portfolio/",
+      "venture_type": "Venture Capital",
+      "website": "https://vinacapital.com/",
+      "parsed_investment": {
+        "min": 3000000,
+        "max": 5000000,
+        "midpoint": 4000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.513Z",
+    "updatedAt": "2025-06-23T22:57:28.012Z",
+    "archived": false
+  },
+  {
+    "id": "35033050216",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.513Z",
+      "email_representative": "safira@tejaventures.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "Agritech, Healthtech, Artificial Intelligence, Logistics, Fintech, E-commerce, D2C, Consumer Tech",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.013Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/afd23c2e-5ae2-4bb2-abc0-a975fa8265f7",
+      "hs_object_id": "35033050216",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$250.0K - $500.0K",
+      "name": "Teja Ventures",
+      "notable_portfolio": "Grouu, Burgreens, Green Rebel",
+      "venture_type": "Venture Capital",
+      "website": "https://www.tejaventures.com/",
+      "parsed_investment": {
+        "min": 250000,
+        "max": 500000,
+        "midpoint": 375000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.513Z",
+    "updatedAt": "2025-06-23T22:57:28.013Z",
+    "archived": false
+  },
+  {
+    "id": "35027966059",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.514Z",
+      "email_representative": "christal@goldengate.vc",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Agnostic",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.362Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/57df0cee-e020-4917-b88a-044ca4f50b1b",
+      "hs_object_id": "35027966059",
+      "interested_areas__country_": "Indonesia;Whole SEA",
+      "investment": "$250.0K - $5.0M",
+      "name": "Golden Gate Ventures",
+      "notable_portfolio": "Stripe, Codapayments, Xendit, Funding Societies, Carro, Moneysmart",
+      "venture_type": "Venture Capital",
+      "website": "https://www.goldengate.vc/",
+      "parsed_investment": {
+        "min": 250000,
+        "max": 5000000,
+        "midpoint": 2625000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.514Z",
+    "updatedAt": "2025-06-23T22:57:28.362Z",
+    "archived": false
+  },
+  {
+    "id": "35011331887",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.529Z",
+      "email_representative": "INFO@MONKSHILL.COM",
+      "funding_stage": "Pre-Series A;Series A",
+      "hs_industry_group": "Agritech, Healthtech, Edutech, Artificial Intelligence, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Fintech, Gaming",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.506Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/4de702d6-7556-43e4-ba85-c28bd2c68862",
+      "hs_object_id": "35011331887",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$2.0M - $10.0M",
+      "name": "Monk's Hill Ventures",
+      "notable_portfolio": "Ninja Van, KKday, ELSA, Glints, Padlet, Rainforest, Hypefast",
+      "venture_type": "Venture Capital",
+      "website": "https://www.monkshill.com/",
+      "parsed_investment": {
+        "min": 2000000,
+        "max": 10000000,
+        "midpoint": 6000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.529Z",
+    "updatedAt": "2025-06-23T22:57:28.506Z",
+    "archived": false
+  },
+  {
+    "id": "35025949103",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.529Z",
+      "email_representative": "felicia.ellenby@ptnsi.co.id",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Non-Tech Ventures, Fintech, E-commerce, Gaming, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.025Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/db6e1935-928c-4832-9222-4e926f28a620",
+      "hs_object_id": "35025949103",
+      "interested_areas__country_": "Philippines",
+      "investment": "$500.0K - $10.0M",
+      "name": "Northstar Ventures",
+      "notable_portfolio": "Dachin, AIHay, Gently, Locofy",
+      "venture_type": "Venture Capital",
+      "website": "https://www.nsgroup.com/",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 10000000,
+        "midpoint": 5250000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.529Z",
+    "updatedAt": "2025-06-23T22:57:28.025Z",
+    "archived": false
+  },
+  {
+    "id": "35026478253",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.529Z",
+      "email_representative": "napasamj@scg.com",
+      "funding_stage": "Series A;Series B;Above Series B;Pre-IPO",
+      "hs_industry_group": "Sustainability/Impact Investment, Artificial Intelligence, Logistics, B2B, Renewable Energy",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.024Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/8b3e5347-6ff0-4da4-add7-6e1e8360705d",
+      "hs_object_id": "35026478253",
+      "interested_areas__country_": "Indonesia;Singapore;Whole SEA",
+      "investment": "$1.0M - $5.0M",
+      "name": "AddVentures",
+      "notable_portfolio": "Ralali, Janio, Validus, Bizongo",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://addventures.co.th/",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 5000000,
+        "midpoint": 3000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.529Z",
+    "updatedAt": "2025-06-23T22:57:28.024Z",
+    "archived": false
+  },
+  {
+    "id": "35027971508",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.529Z",
+      "email_representative": "jeslyn@jungle.vc",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A;Series B;Above Series B",
+      "hs_industry_group": "Sector-agnostic",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.505Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/2f20e5d0-18d7-4659-9171-10dc29dbdd17",
+      "hs_object_id": "35027971508",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$500.0K - $20.0M",
+      "name": "Jungle Ventures",
+      "notable_portfolio": "Kredivo Group, Livspace, Moglix, Builder.ai, Leap, Sociolla, Waresix, Atomberg, Turtlemint, Evermos, Dat Bike",
+      "venture_type": "Venture Capital",
+      "website": "https://www.jungle.vc",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 20000000,
+        "midpoint": 10250000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.529Z",
+    "updatedAt": "2025-06-23T22:57:28.505Z",
+    "archived": false
+  },
+  {
+    "id": "35028131698",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.529Z",
+      "email_representative": "jake@ignite.asia",
+      "funding_stage": "Pre-Seed;Seed",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Non-Tech Ventures, Fintech, E-commerce, Gaming, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.353Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/6a8fc79f-f1f6-4c8d-a5b6-7447b6f6cc04",
+      "hs_object_id": "35028131698",
+      "interested_areas__country_": "Indonesia;Singapore;Vietnam;Thailand",
+      "investment": "$50.0K - $100.0K",
+      "name": "Ignite Asia",
+      "notable_portfolio": "Krenovator, Vibefam, Unilah",
+      "venture_type": "Angel Network VC",
+      "website": "https://www.ignite-asia.info/",
+      "parsed_investment": {
+        "min": 50000,
+        "max": 100000,
+        "midpoint": 75000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.529Z",
+    "updatedAt": "2025-06-23T22:57:28.353Z",
+    "archived": false
+  },
+  {
+    "id": "35032257818",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.529Z",
+      "email_representative": "Athaya@bniventures.co.id",
+      "funding_stage": "Growth Stage",
+      "hs_industry_group": "Fintech, Fintech Enabler, Healthtech, Artificial Intelligence, SaaS, Sustainability/Impact Investment",
+      "hs_lastmodifieddate": "2025-06-30T20:37:56.136Z",
+      "hs_logo_url": "https://46071435.fs1.hubspotusercontent-na1.net/hubfs/46071435/2025%20SEA%20VC%20Company%20Logo/29_div_29.jpeg",
+      "hs_object_id": "35032257818",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Vietnam;Thailand",
+      "investment": "$500.0K - $1.0M",
+      "name": "BNI Ventures",
+      "notable_portfolio": "Rukita, Kecilin",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://www.bniventures.co.id/id/tentang-kami",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 1000000,
+        "midpoint": 750000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.529Z",
+    "updatedAt": "2025-06-30T20:37:56.136Z",
+    "archived": false
+  },
+  {
+    "id": "35032735412",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.529Z",
+      "email_representative": "ny@k3ventures.com",
+      "funding_stage": "Seed;Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Artificial Intelligence, SaaS, Fintech, E-commerce, B2B, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.411Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/a5cefe70-7d44-4597-9d01-c1b5e848cbe7",
+      "hs_object_id": "35032735412",
+      "interested_areas__country_": "nan",
+      "investment": "$2.0M - $5.0M",
+      "name": "K3 Ventures",
+      "notable_portfolio": "Bytedance, Grab, WeRide, Advance Intelligence, Wiz.ai, Airwallex, Genki Forest",
+      "venture_type": "Venture Capital",
+      "website": "https://www.k3ventures.com",
+      "parsed_investment": {
+        "min": 2000000,
+        "max": 5000000,
+        "midpoint": 3500000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.529Z",
+    "updatedAt": "2025-06-23T22:57:28.411Z",
+    "archived": false
+  },
+  {
+    "id": "35029098156",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.530Z",
+      "email_representative": "investment@alphajwc.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Human Resources, SaaS, Non-Tech Ventures, Fintech, E-commerce, Gaming, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.981Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/23333eeb-e04f-40e4-897e-f6c66c636d0a",
+      "hs_object_id": "35029098156",
+      "interested_areas__country_": "Indonesia;Malaysia;Vietnam;Thailand",
+      "investment": "$500.0K - $15.0M",
+      "name": "Alpha JWC Ventures",
+      "notable_portfolio": "Kopi Kenangan, Ajaib, Kredivo, Carro",
+      "venture_type": "Venture Capital",
+      "website": "https://www.alphajwc.com",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 15000000,
+        "midpoint": 7750000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.530Z",
+    "updatedAt": "2025-06-23T22:57:27.981Z",
+    "archived": false
+  },
+  {
+    "id": "35029346126",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.530Z",
+      "email_representative": "raymond.hor@kejorahq.com",
+      "funding_stage": "Series A",
+      "hs_industry_group": "Agritech, Healthtech, Edutech, Artificial Intelligence, Fintech, E-commerce, Gaming, B2B, Renewable Energy",
+      "hs_lastmodifieddate": "2025-06-30T20:39:01.732Z",
+      "hs_logo_url": "https://46071435.fs1.hubspotusercontent-na1.net/hubfs/46071435/2025%20SEA%20VC%20Company%20Logo/110_div_110.png",
+      "hs_object_id": "35029346126",
+      "interested_areas__country_": "Philippines;Whole SEA",
+      "investment": "$500.0K - $1.0M",
+      "name": "Orbit Capital Malaysia Sdn Bhd",
+      "notable_portfolio": "SWAP Energi x Smarter Health, Involved Asia.",
+      "venture_type": "Venture Capital",
+      "website": "https://www.myorbit.co",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 1000000,
+        "midpoint": 750000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.530Z",
+    "updatedAt": "2025-06-30T20:39:01.732Z",
+    "archived": false
+  },
+  {
+    "id": "35031384927",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.530Z",
+      "email_representative": "vadim.shpak@vickersventure.com",
+      "funding_stage": "Series A;Series B;Above Series B",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Artificial Intelligence, SaaS, Fintech",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.852Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/07b22523-7b1b-4b57-b650-5286b50bb378",
+      "hs_object_id": "35031384927",
+      "interested_areas__country_": "Whole SEA",
+      "investment": null,
+      "name": "Vickers Venture Partners",
+      "notable_portfolio": "https://www.vickersventure.com/our-changemakers",
+      "venture_type": "Venture Capital",
+      "website": "https://www.vickersventure.com/",
+      "parsed_investment": {
+        "min": null,
+        "max": null,
+        "midpoint": null
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.530Z",
+    "updatedAt": "2025-06-23T22:57:27.852Z",
+    "archived": false
+  },
+  {
+    "id": "35015780772",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.531Z",
+      "email_representative": "migu@ideaspace.vc",
+      "funding_stage": "Seed;Pre-Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Logistics, SaaS, Fintech, Renewable Energy, Mobility, Media, Workflow/Productivity",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.413Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/f602bea5-56fb-46b4-9a57-cf2b21f466f1",
+      "hs_object_id": "35015780772",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$100.0K - $300.0K",
+      "name": "Ideaspace Ventures",
+      "notable_portfolio": "Packworks, Wela, EDGE Tutors, Aqwire, Cocotel, Chatgenie, GoRocky, Prosperna, Flowerstore.ph, Mosaic Solutions, SwiftClaims, Shoppable Business, Packworks, Wela, Better Teem, MedsGO, Humble Sustainability, Mayani, MedCheck, Podcast Network Asia, Twala, Remotify, Collo, Flying Tigers Express, Itemcount",
+      "venture_type": "Venture Capital",
+      "website": "https://www.ideaspace.vc/",
+      "parsed_investment": {
+        "min": 100000,
+        "max": 300000,
+        "midpoint": 200000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.531Z",
+    "updatedAt": "2025-06-23T22:57:28.413Z",
+    "archived": false
+  },
+  {
+    "id": "35017013637",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.531Z",
+      "email_representative": "nexv@newenergynexus.com",
+      "funding_stage": "Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Renewable Energy, Climate Tech",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.352Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/b13c9c24-5908-4cb4-abcc-e741bd235625",
+      "hs_object_id": "35017013637",
+      "interested_areas__country_": "Indonesia;Singapore;Malaysia",
+      "investment": "$250.0K - $500.0K",
+      "name": "New Energy Nexus Ventures",
+      "notable_portfolio": "Swap Energy, Xurya, SES, SolarKita, BLUE",
+      "venture_type": "Venture Capital",
+      "website": "https://newenergynexus.ventures/",
+      "parsed_investment": {
+        "min": 250000,
+        "max": 500000,
+        "midpoint": 375000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.531Z",
+    "updatedAt": "2025-06-23T22:57:28.352Z",
+    "archived": false
+  },
+  {
+    "id": "35029679907",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.531Z",
+      "email_representative": "info@patamar.com",
+      "funding_stage": "Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Fintech, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.853Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/52acb480-5722-4bc2-acf3-70f84727565b",
+      "hs_object_id": "35029679907",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$500.0K - $2.0M",
+      "name": "Patamar Capital",
+      "notable_portfolio": "Mapan, Sayurbox, SwipeRx, Lhoopa",
+      "venture_type": "Venture Capital",
+      "website": "https://www.patamar.com",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 2000000,
+        "midpoint": 1250000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.531Z",
+    "updatedAt": "2025-06-23T22:57:27.853Z",
+    "archived": false
+  },
+  {
+    "id": "35029359773",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.532Z",
+      "email_representative": "bryan@altara.vc",
+      "funding_stage": "Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Healthtech, Edutech, Logistics, SaaS, Fintech, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.981Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/7763e3a7-1603-489a-9f2f-eaa8f29814fd",
+      "hs_object_id": "35029359773",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$1.0M - $5.0M",
+      "name": "Altara Ventures",
+      "notable_portfolio": "Staffinc, Saturdays, Klinik Pintar, Policy Street, Med247, Clevai, Tonik, Kita, Kyan Therapeutics, Oddle, Property Scout, Stashfin, Buy&Ship, Hyperlounge, Senseye, Freeagent",
+      "venture_type": "Venture Capital",
+      "website": "https://altaraventures.com/",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 5000000,
+        "midpoint": 3000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.532Z",
+    "updatedAt": "2025-06-23T22:57:27.981Z",
+    "archived": false
+  },
+  {
+    "id": "35023996198",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.571Z",
+      "email_representative": "erik@cathaycapital.com.tw",
+      "funding_stage": "Series A;Series B;Above Series B;Pre-IPO",
+      "hs_industry_group": "Agritech, Healthtech, Edutech, Artificial Intelligence, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Non-Tech Ventures, Fintech, E-commerce, Proptech, B2B, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.013Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/9bfe7cb8-1a11-42b8-ac70-5455c700f96b",
+      "hs_object_id": "35023996198",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$500.0K - $2.0M",
+      "name": "Cathay Venture",
+      "notable_portfolio": "Funding Societies/Modalku, Validus, Kargo Technologies, Partipost, KKDay and 91APP",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://www.cathayholdings.com/en/holdings/cathayventure",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 2000000,
+        "midpoint": 1250000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.571Z",
+    "updatedAt": "2025-06-23T22:57:28.013Z",
+    "archived": false
+  },
+  {
+    "id": "35026478254",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.571Z",
+      "email_representative": "jennie@integrapartners.co",
+      "funding_stage": "Seed;Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Artificial Intelligence, SaaS, Fintech, B2B, Renewable Energy",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.413Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/3505ec22-b5e0-4dbd-8238-b621c461f0a8",
+      "hs_object_id": "35026478254",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$1.0M - $5.0M",
+      "name": "Integra Partners",
+      "notable_portfolio": "graas, Sirius, Chickin, YOUR (formerly YourPay), Elfie, ProCredit, Kindred Health",
+      "venture_type": "Venture Capital",
+      "website": "https://integrapartners.co/",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 5000000,
+        "midpoint": 3000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.571Z",
+    "updatedAt": "2025-06-23T22:57:28.413Z",
+    "archived": false
+  },
+  {
+    "id": "35027966060",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.571Z",
+      "email_representative": "stephanie.hermawan@gmail.com",
+      "funding_stage": "Seed;Pre-Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Non-Tech Ventures, Regenerative Agriculture",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.982Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/f8e1842c-65d4-4bff-8929-6adda8211caf",
+      "hs_object_id": "35027966060",
+      "interested_areas__country_": "Indonesia",
+      "investment": "$100.0K - $500.0K",
+      "name": "Instellar Investment",
+      "notable_portfolio": "Adena coffee",
+      "venture_type": "Venture Capital",
+      "website": "https://instellar.id/investment/",
+      "parsed_investment": {
+        "min": 100000,
+        "max": 500000,
+        "midpoint": 300000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.571Z",
+    "updatedAt": "2025-06-23T22:57:27.982Z",
+    "archived": false
+  },
+  {
+    "id": "35029346127",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.571Z",
+      "email_representative": "contact@maven.asia",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Healthtech, Sustainability/Impact Investment, Renewable Energy, Agritech, Edutech, Logistics, SaaS, Non-Tech Ventures, Fintech,",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.983Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/d53d75b7-f18f-4f7a-af6f-8b81684db9c7",
+      "hs_object_id": "35029346127",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$200.0K - $5.0M",
+      "name": "Maven Asia Capital",
+      "notable_portfolio": "SWAP, Kedai Pangan, Dagangan, Filmore, Asa Ren, Olsera",
+      "venture_type": "Venture Capital",
+      "website": "https://www.maven.asia/",
+      "parsed_investment": {
+        "min": 200000,
+        "max": 5000000,
+        "midpoint": 2600000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.571Z",
+    "updatedAt": "2025-06-23T22:57:27.983Z",
+    "archived": false
+  },
+  {
+    "id": "35030891319",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.571Z",
+      "email_representative": "abby.ho@trirecpl.com",
+      "funding_stage": "Seed;Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Sustainability/Impact Investment, Smart City, Fintech, Renewable Energy",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.024Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/4b5774a2-f32d-4781-8d48-1c32f018c0fa",
+      "hs_object_id": "35030891319",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$1.0M - $20.0M",
+      "name": "TRITEC",
+      "notable_portfolio": "Sunseap, Gazelle Ventures (US), Ample (US), Aether Diamonds, Solar Home",
+      "venture_type": "Venture Capital",
+      "website": "https://www.trirec.co/",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 20000000,
+        "midpoint": 10500000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.571Z",
+    "updatedAt": "2025-06-23T22:57:28.024Z",
+    "archived": false
+  },
+  {
+    "id": "35030903080",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.571Z",
+      "email_representative": "vvsea_communications@vertexventures.com",
+      "funding_stage": "Seed;Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Marketplace, Logistics, SaaS, Fintech, E-commerce, Gaming, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.505Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/3eda8f95-adf4-4daf-92b2-b6c2428fc95e",
+      "hs_object_id": "35030903080",
+      "interested_areas__country_": "Indonesia",
+      "investment": "$1.0M - $7.0M",
+      "name": "Vertex Ventures Southeast Asia & India",
+      "notable_portfolio": "Grab, Nium, Patsnap, First Cry, Licious, Metub",
+      "venture_type": "Venture Capital",
+      "website": "https://www.vertexventures.sg/",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 7000000,
+        "midpoint": 4000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.571Z",
+    "updatedAt": "2025-06-23T22:57:28.505Z",
+    "archived": false
+  },
+  {
+    "id": "35029511846",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.572Z",
+      "email_representative": "info@indogencapital.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Healthtech, Fintech, E-commerce, B2B, D2C, Entertainment",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.339Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/8f668792-95e1-4651-9e5f-10ffc0830ae8",
+      "hs_object_id": "35029511846",
+      "interested_areas__country_": "Indonesia;Philippines;Vietnam",
+      "investment": "Up to $1.0M",
+      "name": "IndoGen Capital",
+      "notable_portfolio": "Carsome, Travelio, Jejakin, Rekosistem, Qoala",
+      "venture_type": "Venture Capital",
+      "website": "https://indogencapital.com",
+      "parsed_investment": {
+        "min": 0,
+        "max": 1000000,
+        "midpoint": 500000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.572Z",
+    "updatedAt": "2025-06-23T22:57:28.339Z",
+    "archived": false
+  },
+  {
+    "id": "35029832559",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.572Z",
+      "email_representative": "rexi@init-6.fund",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Agritech, Healthtech, Edutech, Artificial Intelligence, SaaS, Fintech, B2B, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.361Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/e67e47ec-5e4f-4c87-a1f3-95d2246da07b",
+      "hs_object_id": "35029832559",
+      "interested_areas__country_": "Indonesia",
+      "investment": "$500.0K - $2.0M",
+      "name": "Init-6",
+      "notable_portfolio": "ImajinGentlySkorlifeTorchMonitRingkasQiscus",
+      "venture_type": "Venture Capital",
+      "website": "https://init-6.fund/",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 2000000,
+        "midpoint": 1250000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.572Z",
+    "updatedAt": "2025-06-23T22:57:28.361Z",
+    "archived": false
+  },
+  {
+    "id": "35030730646",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.572Z",
+      "email_representative": "pitch@centralcapital.vc",
+      "funding_stage": "Seed;Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Sustainability/Impact Investment, Healthtech, Adtech/Marketing, Logistics, SaaS, Non-Tech Ventures, Fintech, Proptech, B2B, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.983Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/c184a2ba-dce7-4fc8-ae19-7d26643d5a3c",
+      "hs_object_id": "35030730646",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$500.0K - $2.0M",
+      "name": "Central Capital Ventura",
+      "notable_portfolio": "Airwallex, Qoala, Oy, Julo, Akseleran",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://centralcapital.vc",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 2000000,
+        "midpoint": 1250000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.572Z",
+    "updatedAt": "2025-06-23T22:57:27.983Z",
+    "archived": false
+  },
+  {
+    "id": "35031384928",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.572Z",
+      "email_representative": "admin@arkana.vc",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Fintech, E-commerce, Gaming, Proptech, B2B, Renewable Energy",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.025Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/cf70d502-f16a-49cb-87f0-510024c3e9e4",
+      "hs_object_id": "35031384928",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$250.0K - $1.0M",
+      "name": "Arkana Ventures",
+      "notable_portfolio": "Kecilin, Rekosistem, Imajin, Noctua, Credilinq, Chickin, Klar, Proglix, Fairatmos, Ringkas, Paper ID",
+      "venture_type": "Venture Capital",
+      "website": "https://www.arkana.vc/",
+      "parsed_investment": {
+        "min": 250000,
+        "max": 1000000,
+        "midpoint": 625000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.572Z",
+    "updatedAt": "2025-06-23T22:57:28.025Z",
+    "archived": false
+  },
+  {
+    "id": "35018695210",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.573Z",
+      "email_representative": "Gina@favour-capital.com",
+      "funding_stage": "Series A;Series B;Above Series B;Pre-IPO",
+      "hs_industry_group": "Agritech, Healthtech, Edutech, Artificial Intelligence, Adtech/Marketing, Logistics, SaaS, Non-Tech Ventures, Fintech, E-commerce, Proptech, B2B, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.852Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/7a92bcc0-a18e-4106-869d-44242856431a",
+      "hs_object_id": "35018695210",
+      "interested_areas__country_": "Indonesia;Singapore;Vietnam;Thailand;Whole SEA",
+      "investment": "$10.0M - $100.0M",
+      "name": "Favour Capital",
+      "notable_portfolio": "Buymed Inteluck",
+      "venture_type": "Investment bank",
+      "website": "https://Favour-Capital.com",
+      "parsed_investment": {
+        "min": 10000000,
+        "max": 100000000,
+        "midpoint": 55000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.573Z",
+    "updatedAt": "2025-06-23T22:57:27.852Z",
+    "archived": false
+  },
+  {
+    "id": "35032257819",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.573Z",
+      "email_representative": "Fandy@kopitalventures.com",
+      "funding_stage": "Pre-Seed;Seed",
+      "hs_industry_group": "Sustainability/Impact Investment, Artificial Intelligence, Non-Tech Ventures, E-commerce, B2B, D2C",
+      "hs_lastmodifieddate": "2025-06-30T20:37:18.967Z",
+      "hs_logo_url": "https://46071435.fs1.hubspotusercontent-na1.net/hubfs/46071435/2025%20SEA%20VC%20Company%20Logo/88_div_88.png",
+      "hs_object_id": "35032257819",
+      "interested_areas__country_": "Indonesia;Singapore;Whole SEA",
+      "investment": "$50.0K - $300.0K",
+      "name": "Kopital Ventures",
+      "notable_portfolio": "nan",
+      "venture_type": "Venture Capital",
+      "website": "https://Kopitalventures.com",
+      "parsed_investment": {
+        "min": 50000,
+        "max": 300000,
+        "midpoint": 175000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.573Z",
+    "updatedAt": "2025-06-30T20:37:18.967Z",
+    "archived": false
+  },
+  {
+    "id": "35033060642",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.573Z",
+      "email_representative": "adi@febe.vc",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Healthtech, Artificial Intelligence, SaaS, Fintech, E-commerce, B2B, Enterprise, Industrial Software, B2B Software",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.852Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/f37f7cd1-43e2-4647-8f0d-523f4485cb4c",
+      "hs_object_id": "35033060642",
+      "interested_areas__country_": "Indonesia",
+      "investment": "$250.0K - $1.5M",
+      "name": "FEBE Ventures",
+      "notable_portfolio": "Alami, KitaLulus, Zenyum, Locad",
+      "venture_type": "Venture Capital",
+      "website": "https://www.FEBE.vc",
+      "parsed_investment": {
+        "min": 250000,
+        "max": 1500000,
+        "midpoint": 875000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.573Z",
+    "updatedAt": "2025-06-23T22:57:27.852Z",
+    "archived": false
+  },
+  {
+    "id": "35018395454",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.574Z",
+      "email_representative": "louis@atmcapital.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Fintech, E-commerce, Renewable Energy, D2C, Consumer & Retail",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.983Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/70b36252-1514-45e5-80e7-a1dc87549023",
+      "hs_object_id": "35018395454",
+      "interested_areas__country_": "Philippines;Malaysia;Thailand",
+      "investment": "$1.0M - $20.0M",
+      "name": "ATM Capital",
+      "notable_portfolio": "J&T Express, The Asian Parents, YOU Beauty, Tomoro Coffee",
+      "venture_type": "Venture Capital",
+      "website": "https://atmcapital.com/",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 20000000,
+        "midpoint": 10500000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.574Z",
+    "updatedAt": "2025-06-23T22:57:27.983Z",
+    "archived": false
+  },
+  {
+    "id": "35020514208",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.574Z",
+      "email_representative": "Findicateangels@gmail.com",
+      "funding_stage": "Pre-Seed;Seed",
+      "hs_industry_group": "Edutech, Artificial Intelligence, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Non-Tech Ventures, Fintech, E-commerce, Proptech, B2B, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.852Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/1c604aca-8fb9-433c-b2d9-db0a61b2f3b6",
+      "hs_object_id": "35020514208",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$50.0K - $50.0K",
+      "name": "Findicate",
+      "notable_portfolio": "Buscaro, Five Beauty, Tanggapp",
+      "venture_type": "Angel Syndicate",
+      "website": "https://www.Findicate.co",
+      "parsed_investment": {
+        "min": 50000,
+        "max": 50000,
+        "midpoint": 50000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.574Z",
+    "updatedAt": "2025-06-23T22:57:27.852Z",
+    "archived": false
+  },
+  {
+    "id": "35025949104",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.574Z",
+      "email_representative": "chelsea.darma@kejorahq.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Healthtech, Marketplace, Logistics, Fintech, B2B, Renewable Energy",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.353Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/13b28d3e-4e36-4754-9d44-06e1197e14e3",
+      "hs_object_id": "35025949104",
+      "interested_areas__country_": "Whole SEA",
+      "investment": null,
+      "name": "Kejora capital",
+      "notable_portfolio": "Sicepat, Kredivo, Pinkfong",
+      "venture_type": "Venture Capital",
+      "website": "https://www.kejorahq.com/",
+      "parsed_investment": {
+        "min": null,
+        "max": null,
+        "midpoint": null
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.574Z",
+    "updatedAt": "2025-06-23T22:57:28.353Z",
+    "archived": false
+  },
+  {
+    "id": "35029098157",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.574Z",
+      "email_representative": "sea@pegasusventures.com",
+      "funding_stage": "Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Healthtech, Artificial Intelligence, Logistics, Human Resources, Fintech, E-commerce, Gaming, Proptech, B2B, Renewable Energy, Deep tech, Bio tech",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.983Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/9a957e9a-7256-4f77-a751-8c30ed7be336",
+      "hs_object_id": "35029098157",
+      "interested_areas__country_": "Philippines;Whole SEA",
+      "investment": "$50.0K - $1.0M",
+      "name": "Pegasus Tech Ventures",
+      "notable_portfolio": "SpaceX, AirBnB, SoFi, 23AndMe, Coinbase, Twitter, Alodokter, Populix, Travelio, Base, Ecozystem, Aevice Health and more",
+      "venture_type": "Venture Capital",
+      "website": "https://www.pegasustechventures.com/",
+      "parsed_investment": {
+        "min": 50000,
+        "max": 1000000,
+        "midpoint": 525000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.574Z",
+    "updatedAt": "2025-06-23T22:57:27.983Z",
+    "archived": false
+  },
+  {
+    "id": "35016355648",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.575Z",
+      "email_representative": "cvc@aeonretail.com.my",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Non-Tech Ventures, Fintech, Web-3.0, E-commerce, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.025Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/126c77b3-208d-4bc5-860d-cbbfa8d42722",
+      "hs_object_id": "35016355648",
+      "interested_areas__country_": "Indonesia",
+      "investment": "-",
+      "name": "AEON Co. (M) Berhad",
+      "notable_portfolio": "-",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://aeongroupmalaysia.com/",
+      "parsed_investment": {
+        "min": null,
+        "max": null,
+        "midpoint": null
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.575Z",
+    "updatedAt": "2025-06-23T22:57:28.025Z",
+    "archived": false
+  },
+  {
+    "id": "35027139447",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.590Z",
+      "email_representative": "wayne@kadan.vc",
+      "funding_stage": "Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Artificial Intelligence, SaaS, Fintech, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.505Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/f201d7b0-1664-4ea5-82e8-fab272fc6e82",
+      "hs_object_id": "35027139447",
+      "interested_areas__country_": "Singapore;Malaysia;Vietnam;Thailand",
+      "investment": "$500.0K - $1.0M",
+      "name": "Kadan Capital",
+      "notable_portfolio": "Ringkas, Pallav, Datature, ZenAdmin",
+      "venture_type": "Venture Capital",
+      "website": "https://kadan.vc/",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 1000000,
+        "midpoint": 750000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.590Z",
+    "updatedAt": "2025-06-23T22:57:28.505Z",
+    "archived": false
+  },
+  {
+    "id": "35027139448",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.590Z",
+      "email_representative": "kevinw@cyberagentcapital.com",
+      "funding_stage": "Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Artificial Intelligence, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Fintech, Web-3.0, E-commerce, Proptech, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.506Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/3081fc8b-f25b-4aad-a974-47f5f3e68618",
+      "hs_object_id": "35027139448",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$500.0K - $500.0K",
+      "name": "CyberAgent Capital",
+      "notable_portfolio": "Tokopedia, Tiki.VN, aCommerce, Moladin, Timee, iTutorGroup, CodaPayments.",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://www.cyberagentcapital.com/en/",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 500000,
+        "midpoint": 500000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.590Z",
+    "updatedAt": "2025-06-23T22:57:28.506Z",
+    "archived": false
+  },
+  {
+    "id": "35029340565",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.590Z",
+      "email_representative": "woraphot.k@kasikornbank.com",
+      "funding_stage": "Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Sustainability/Impact Investment, Artificial Intelligence, Logistics, SaaS, Fintech, Web-3.0, E-commerce, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.361Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/7add5f89-36f1-4de1-9c5e-a7a267dd66d7",
+      "hs_object_id": "35029340565",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$1.0M - $3.0M",
+      "name": "Beacon VC",
+      "notable_portfolio": "Nium, Grab, Aspire, Jitta, FlowAccount, Carro, Neutreeno",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://www.beaconvc.fund/",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 3000000,
+        "midpoint": 2000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.590Z",
+    "updatedAt": "2025-06-23T22:57:28.361Z",
+    "archived": false
+  },
+  {
+    "id": "35032412500",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.590Z",
+      "email_representative": "plimcaoco@accion.org",
+      "funding_stage": "Seed;Pre-Series A",
+      "hs_industry_group": "Agritech, Logistics, Fintech, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.339Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/982b47d4-5a11-4786-a089-bc9ffccce9a9",
+      "hs_object_id": "35032412500",
+      "interested_areas__country_": "Indonesia;Singapore;Malaysia",
+      "investment": "$500.0K - $1.0M",
+      "name": "Accion Venture Lab",
+      "notable_portfolio": "First Circle, Advance, FinFra, Semaai, bababos",
+      "venture_type": "Venture Capital",
+      "website": "https://accion.org/venturelab",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 1000000,
+        "midpoint": 750000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.590Z",
+    "updatedAt": "2025-06-23T22:57:28.339Z",
+    "archived": false
+  },
+  {
+    "id": "35033055775",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.590Z",
+      "email_representative": "nicolas.lye@hiveventures.io",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Artificial Intelligence, SaaS, Fintech, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.340Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/f07bd23f-769b-4b10-9ee4-5b6ce868fb47",
+      "hs_object_id": "35033055775",
+      "interested_areas__country_": "Vietnam;Singapore;Indonesia;United States;Qatar",
+      "investment": "$500.0K - $3.0M",
+      "name": "Hive Ventures",
+      "notable_portfolio": "Profet AI, IsCoolLab, Instill AI, Ataya",
+      "venture_type": "Venture Capital",
+      "website": "https://www.hiveventures.io",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 3000000,
+        "midpoint": 1750000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.590Z",
+    "updatedAt": "2025-06-23T22:57:28.340Z",
+    "archived": false
+  },
+  {
+    "id": "34998261404",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.591Z",
+      "email_representative": "danielpsastro@asiantrustcapital.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Media, Adtech/Marketing, Logistics, Human Resources, Non-Tech Ventures, Fintech, Proptech, B2B, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.505Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/f418727c-170b-421a-bfb0-52adf08dfab3",
+      "hs_object_id": "34998261404",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$50.0K - $100.0K",
+      "name": "Asiantrust Capital",
+      "notable_portfolio": "Simpan, Jobs Group, Doogether",
+      "venture_type": "Venture Capital",
+      "website": "https://asiantrust-capital.com",
+      "parsed_investment": {
+        "min": 50000,
+        "max": 100000,
+        "midpoint": 75000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.591Z",
+    "updatedAt": "2025-06-23T22:57:28.505Z",
+    "archived": false
+  },
+  {
+    "id": "35013489687",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.591Z",
+      "email_representative": "twwo@seedstars.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "Artificial Intelligence, Marketplace, Logistics, SaaS, Fintech, E-commerce, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.339Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/46bf4354-5e88-4d60-8d1d-bff0e3989b88",
+      "hs_object_id": "35013489687",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$150.0K - $350.0K",
+      "name": "Seedstars International Venture",
+      "notable_portfolio": "Baubap, Cinch, iMotorbike, MyRobin, Sourcy",
+      "venture_type": "Venture Capital",
+      "website": "https://www.seedstars-international.vc/",
+      "parsed_investment": {
+        "min": 150000,
+        "max": 350000,
+        "midpoint": 250000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.591Z",
+    "updatedAt": "2025-06-23T22:57:28.339Z",
+    "archived": false
+  },
+  {
+    "id": "35015164764",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.591Z",
+      "email_representative": "ysabel@forge.vc",
+      "funding_stage": "Pre-Seed;Seed",
+      "hs_industry_group": "Sustainability/Impact Investment, Healthtech, SaaS, Fintech, B2B, Renewable Energy",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.505Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/a22e530e-670b-48d4-9c6f-402097dd13d5",
+      "hs_object_id": "35015164764",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$500.0K - $1.0M",
+      "name": "Forge Ventures",
+      "notable_portfolio": "Baskit, Prefer Coffee, Mito Health",
+      "venture_type": "Venture Capital",
+      "website": "https://forge.vc",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 1000000,
+        "midpoint": 750000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.591Z",
+    "updatedAt": "2025-06-23T22:57:28.505Z",
+    "archived": false
+  },
+  {
+    "id": "35018395455",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.591Z",
+      "email_representative": "nicholas@acv.vc",
+      "funding_stage": "Seed;Pre-Series A;Series A;Series B;Above Series B;Pre-IPO",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, SaaS, Smart City, Non-Tech Ventures, Fintech, E-commerce, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.025Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/05c725f1-edd0-4485-82c8-79d2c9102872",
+      "hs_object_id": "35018395455",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$3.0M - $5.0M",
+      "name": "AC Ventures",
+      "notable_portfolio": "707, Simplus, Gmeelan, Astro, Stockbit, Maka Motor",
+      "venture_type": "Venture Capital",
+      "website": "https://acv.vc",
+      "parsed_investment": {
+        "min": 3000000,
+        "max": 5000000,
+        "midpoint": 4000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.591Z",
+    "updatedAt": "2025-06-23T22:57:28.025Z",
+    "archived": false
+  },
+  {
+    "id": "35025949105",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.591Z",
+      "email_representative": "sanoi@scalagrp.jp",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Agritech, Healthtech, Edutech",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.506Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/b515b2c8-fad4-465d-b0e3-e0ffef111699",
+      "hs_object_id": "35025949105",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Whole SEA",
+      "investment": null,
+      "name": "Scala",
+      "notable_portfolio": "Binar Academy",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://scalagrp.jp/en/",
+      "parsed_investment": {
+        "min": null,
+        "max": null,
+        "midpoint": null
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.591Z",
+    "updatedAt": "2025-06-23T22:57:28.506Z",
+    "archived": false
+  },
+  {
+    "id": "35030725541",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.591Z",
+      "email_representative": "jason@aksara.vc",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Fintech, E-commerce, Gaming, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.505Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/561a2ecb-be43-4897-b9ce-b953bc07345f",
+      "hs_object_id": "35030725541",
+      "interested_areas__country_": "Indonesia;Singapore;Vietnam",
+      "investment": "$100.0K - $300.0K",
+      "name": "Aksara Ventures",
+      "notable_portfolio": "Chickin, Amoda, Bintango, Feedloop, Dash",
+      "venture_type": "Venture Capital",
+      "website": "https://www.aksara.vc",
+      "parsed_investment": {
+        "min": 100000,
+        "max": 300000,
+        "midpoint": 200000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.591Z",
+    "updatedAt": "2025-06-23T22:57:28.505Z",
+    "archived": false
+  },
+  {
+    "id": "35017013638",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.592Z",
+      "email_representative": "thanakrit.ch@kasikornvision.com",
+      "funding_stage": "Seed;Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, SaaS, Smart City, E-commerce, Gaming, Proptech, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.362Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/9bc7850f-2012-412d-be10-23cdefcc8b2e",
+      "hs_object_id": "35017013638",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$3.0M - $3.0M",
+      "name": "Kvision",
+      "notable_portfolio": "ISeller, Alodokter",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://kasikornvision.com/",
+      "parsed_investment": {
+        "min": 3000000,
+        "max": 3000000,
+        "midpoint": 3000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.592Z",
+    "updatedAt": "2025-06-23T22:57:28.362Z",
+    "archived": false
+  },
+  {
+    "id": "35027966061",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.592Z",
+      "email_representative": "tanaka.harutoshi@moneyforward.co.jp",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A;Series B;Above Series B",
+      "hs_industry_group": "Artificial Intelligence, Human Resources, SaaS, Fintech, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.339Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/58e6f805-6ac4-4249-a148-7da30592accf",
+      "hs_object_id": "35027966061",
+      "interested_areas__country_": "Philippines",
+      "investment": "$1.0M - $3.0M",
+      "name": "Money Forward",
+      "notable_portfolio": "Mekari, FlowAccount, Bizzi, Arkadiah, Mesh",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://corp.moneyforward.com/en/",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 3000000,
+        "midpoint": 2000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.592Z",
+    "updatedAt": "2025-06-23T22:57:28.339Z",
+    "archived": false
+  },
+  {
+    "id": "35030903081",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.592Z",
+      "email_representative": "Thao@squarepeg.vc",
+      "funding_stage": "Seed;Pre-Series A;Series A;Series B;Above Series B",
+      "hs_industry_group": "Artificial Intelligence, SaaS, Fintech",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.980Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/2da0db41-aaaa-46ba-bb5b-c3c750db05d0",
+      "hs_object_id": "35030903081",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": null,
+      "name": "Square Peg",
+      "notable_portfolio": "Canva, Airwallex, Fiverr, Doctor Anywhere, Kredivo, Pluang",
+      "venture_type": "Venture Capital",
+      "website": "https://www.squarepeg.vc/",
+      "parsed_investment": {
+        "min": null,
+        "max": null,
+        "midpoint": null
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.592Z",
+    "updatedAt": "2025-06-23T22:57:27.980Z",
+    "archived": false
+  },
+  {
+    "id": "35018695211",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.593Z",
+      "email_representative": "jeremy@gfrfund.com",
+      "funding_stage": "Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Artificial Intelligence, Media, Marketplace, Fintech, Web-3.0, E-commerce, Gaming, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.506Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/5c34fad8-2d6f-4172-b9d0-1622fc0556f3",
+      "hs_object_id": "35018695211",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand",
+      "investment": "Up to $500.0K",
+      "name": "GFR Fund",
+      "notable_portfolio": "VRChat, RTFKT, Priyoshop, STAN, Tovala, Final Boss Sour",
+      "venture_type": "Venture Capital",
+      "website": "https://www.gfrfund.com",
+      "parsed_investment": {
+        "min": 0,
+        "max": 500000,
+        "midpoint": 250000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.593Z",
+    "updatedAt": "2025-06-23T22:57:28.506Z",
+    "archived": false
+  },
+  {
+    "id": "35029340566",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.593Z",
+      "email_representative": "r.armstrong@taventures.vc",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Non-Tech Ventures, Fintech, Web-3.0, E-commerce, Gaming, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.013Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/8f91a265-bb9f-4832-90b4-8fab2b3a1118",
+      "hs_object_id": "35029340566",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$100.0K - $1.0M",
+      "name": "TA Ventures",
+      "notable_portfolio": "Impress, Platzi, Deepl, Sumup, HD and Adore Me",
+      "venture_type": "Venture Capital",
+      "website": "https://taventures.vc",
+      "parsed_investment": {
+        "min": 100000,
+        "max": 1000000,
+        "midpoint": 550000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.593Z",
+    "updatedAt": "2025-06-23T22:57:28.013Z",
+    "archived": false
+  },
+  {
+    "id": "35026478255",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.594Z",
+      "email_representative": "ryan.lim@qualgro.com",
+      "funding_stage": "Pre-Series A;Series A;Series B;Above Series B",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Non-Tech Ventures, Fintech, E-commerce, Proptech, B2B, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.361Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/0a49e07b-ebb3-4d63-8a22-b67ad36eee33",
+      "hs_object_id": "35026478255",
+      "interested_areas__country_": "Indonesia;Singapore;Vietnam;Thailand;Whole SEA;India;Brazil;USA",
+      "investment": "$2.0M - $8.0M",
+      "name": "Qualgro Partners",
+      "notable_portfolio": "Patsnap, Shopback, Funding Societies",
+      "venture_type": "Venture Capital",
+      "website": "https://qualgro.com/",
+      "parsed_investment": {
+        "min": 2000000,
+        "max": 8000000,
+        "midpoint": 5000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.594Z",
+    "updatedAt": "2025-06-23T22:57:28.361Z",
+    "archived": false
+  },
+  {
+    "id": "35013489688",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.620Z",
+      "email_representative": "asano@pkshacapital.com",
+      "funding_stage": "Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Agritech, Healthtech, Edutech, Artificial Intelligence, Marketplace, Adtech/Marketing, Human Resources, SaaS, Fintech, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.852Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/ed69efff-944f-4c95-b98a-c982ce40d013",
+      "hs_object_id": "35013489688",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$1.0M - $1.0M",
+      "name": "PKSHA Algorithm Fund",
+      "notable_portfolio": "Broom and Pituku",
+      "venture_type": "Venture Capital",
+      "website": "https://pkshacapital.com/en/",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 1000000,
+        "midpoint": 1000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.620Z",
+    "updatedAt": "2025-06-23T22:57:27.852Z",
+    "archived": false
+  },
+  {
+    "id": "35015164765",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.620Z",
+      "email_representative": "jing.zhou2@saint-gobain.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Sustainability/Impact Investment, Smart City, Proptech, B2B, Renewable Energy",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.024Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/4a0b6888-1334-4de1-bbc7-47e7b0bd4dfb",
+      "hs_object_id": "35015164765",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam",
+      "investment": "$500.0K - $3.0M",
+      "name": "Saint-Gobain NOVA",
+      "notable_portfolio": "LivSpace, Hyperframe, FiberCoat",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://www.nova-saint-gobain.com/",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 3000000,
+        "midpoint": 1750000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.620Z",
+    "updatedAt": "2025-06-23T22:57:28.024Z",
+    "archived": false
+  },
+  {
+    "id": "35015164766",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.620Z",
+      "email_representative": "adit.rukmawan@sagana.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Logistics, Human Resources, SaaS, Smart City, Non-Tech Ventures, Fintech, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.353Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/58ef4ec9-d374-4e05-a39b-2873a4ba8e4c",
+      "hs_object_id": "35015164766",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$250.0K - $250.0K",
+      "name": "Sagana",
+      "notable_portfolio": "ACE Green Recycling, E-BOOST, Recykal, Prescinto",
+      "venture_type": "Family Office",
+      "website": "https://sagana.com/",
+      "parsed_investment": {
+        "min": 250000,
+        "max": 250000,
+        "midpoint": 250000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.620Z",
+    "updatedAt": "2025-06-23T22:57:28.353Z",
+    "archived": false
+  },
+  {
+    "id": "35018695212",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.620Z",
+      "email_representative": "pitch@trihillcapital.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A;Series B;Above Series B",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Marketplace, Logistics, Human Resources, SaaS, Non-Tech Ventures, Fintech, E-commerce, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.013Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/be9a1085-a994-4d19-a512-a94452ed3d07",
+      "hs_object_id": "35018695212",
+      "interested_areas__country_": "Indonesia",
+      "investment": "Up to $5.0M",
+      "name": "Trihill Capital",
+      "notable_portfolio": "SiCepat, Ruangguru, Fit Hub, Wagely, Fresh Factory, Zenith Learning Group",
+      "venture_type": "Venture Capital",
+      "website": "https://www.trihillcapital.com",
+      "parsed_investment": {
+        "min": 0,
+        "max": 5000000,
+        "midpoint": 2500000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.620Z",
+    "updatedAt": "2025-06-23T22:57:28.013Z",
+    "archived": false
+  },
+  {
+    "id": "35029511847",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.620Z",
+      "email_representative": "yuan@bace.vc",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Agritech, Healthtech, Edutech, Artificial Intelligence, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Fintech, E-commerce, Gaming, Proptech, B2B, D2C",
+      "hs_lastmodifieddate": "2025-06-30T20:35:05.091Z",
+      "hs_logo_url": "https://46071435.fs1.hubspotusercontent-na1.net/hubfs/46071435/2025%20SEA%20VC%20Company%20Logo/26_div_26.png",
+      "hs_object_id": "35029511847",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA;India",
+      "investment": "$500.0K - $5.0M",
+      "name": "BAce Capital",
+      "notable_portfolio": "Aspire, Wallex, Haus!, Fithub, Vuihoc, Cloudeats",
+      "venture_type": "Venture Capital",
+      "website": "https://www.bace.vc",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 5000000,
+        "midpoint": 2750000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.620Z",
+    "updatedAt": "2025-06-30T20:35:05.091Z",
+    "archived": false
+  },
+  {
+    "id": "35030725542",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.620Z",
+      "email_representative": "mhasan@moonshotventures.org",
+      "funding_stage": "Pre-Seed;Seed",
+      "hs_industry_group": "Sustainability/Impact Investment",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.012Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/6ec2f212-62d5-4762-b26b-ca02e25855e4",
+      "hs_object_id": "35030725542",
+      "interested_areas__country_": "Vietnam;Whole SEA",
+      "investment": "$10.0K - $500.0K",
+      "name": "Moonshot Ventures",
+      "notable_portfolio": "Terra Water, Binar Academy",
+      "venture_type": "Impact Investment Firm",
+      "website": "https://www.moonshotventures.org",
+      "parsed_investment": {
+        "min": 10000,
+        "max": 500000,
+        "midpoint": 255000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.620Z",
+    "updatedAt": "2025-06-23T22:57:28.012Z",
+    "archived": false
+  },
+  {
+    "id": "35016106093",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.621Z",
+      "email_representative": "gio@jakartaventura.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Edutech, Marketplace, Logistics, Human Resources, SaaS, Non-Tech Ventures, Fintech, E-commerce, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.505Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/2b2de490-c4b9-4661-9e08-c3cae72923a2",
+      "hs_object_id": "35016106093",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$50.0K - $200.0K",
+      "name": "Jakarta Ventura",
+      "notable_portfolio": "BroilerX, Yoona, Rakamin, Lokatani",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://jakartaventura.com/",
+      "parsed_investment": {
+        "min": 50000,
+        "max": 200000,
+        "midpoint": 125000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.621Z",
+    "updatedAt": "2025-06-23T22:57:28.505Z",
+    "archived": false
+  },
+  {
+    "id": "35024487696",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.621Z",
+      "email_representative": "Info@east.vc",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A;Series B;Above Series B",
+      "hs_industry_group": "Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Logistics, Human Resources, SaaS, Fintech, Web-3.0, E-commerce, Proptech, B2B, Renewable Energy, D2C, sector agnostic",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.024Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/485bd56f-9b05-4db4-978f-04e712673820",
+      "hs_object_id": "35024487696",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$250.0K - $20.0M",
+      "name": "East Ventures",
+      "notable_portfolio": "Tokopedia, Traveloka, Ruangguru, ShopBack, waresix, Xendit, IDN, Sociolla, Fore Coffee, Tech in Asia (acquired by SPH), Kudo (acquired by Grab), Loket (acquired by Gojek), and MokaPOS (acquired by Gojek).",
+      "venture_type": "Venture Capital",
+      "website": "https://east.vc/",
+      "parsed_investment": {
+        "min": 250000,
+        "max": 20000000,
+        "midpoint": 10125000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.621Z",
+    "updatedAt": "2025-06-23T22:57:28.024Z",
+    "archived": false
+  },
+  {
+    "id": "35026984968",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.621Z",
+      "email_representative": "investments@capria.vc",
+      "funding_stage": "Pre-Series A;Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Marketplace, Logistics, SaaS, Fintech, Proptech, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.983Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/f149d739-88cc-450b-8b10-617b20a82a7a",
+      "hs_object_id": "35026984968",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$1.0M - $2.0M",
+      "name": "Capria Ventures",
+      "notable_portfolio": "ALAMI, TechCoop, Wagely",
+      "venture_type": "Venture Capital",
+      "website": "https://capria.vc/",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 2000000,
+        "midpoint": 1500000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.621Z",
+    "updatedAt": "2025-06-23T22:57:27.983Z",
+    "archived": false
+  },
+  {
+    "id": "35032412501",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.621Z",
+      "email_representative": "invest@main.ph",
+      "funding_stage": "Pre-Seed;Seed;Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Artificial Intelligence, Fintech",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.413Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/cae74e0d-8208-40e8-a36a-d8ec53f0448f",
+      "hs_object_id": "35032412501",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$10.0K - $300.0K",
+      "name": "MAIN - Manila Angel Investors Network",
+      "notable_portfolio": "1o, Booky, Edusuite, Talino, Podcast Network Asia, Kumu, Fortuna, 1Export, aqwire, meetbit, UNAWA, Fitscovery, tabella, TAXUMO, Medpath, Flowerstore Southeast Asia, TANGapp, Gappify, Humble Sustainability, Shoppable, BetterTeem, Enployable, CodeChum",
+      "venture_type": "Angel Investors Network",
+      "website": "https://main.ph",
+      "parsed_investment": {
+        "min": 10000,
+        "max": 300000,
+        "midpoint": 155000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.621Z",
+    "updatedAt": "2025-06-23T22:57:28.413Z",
+    "archived": false
+  },
+  {
+    "id": "35033060643",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.621Z",
+      "email_representative": "singapore@endeavor.org",
+      "funding_stage": "Series A;Series B;Above Series B",
+      "hs_industry_group": "Agnostic",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.412Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/0d9f2c06-0e5e-47f2-995c-2c8fea787410",
+      "hs_object_id": "35033060643",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "Up to $2.0M",
+      "name": "Endeavor Catalyst",
+      "notable_portfolio": "Kredivo, Carro, Carsome, Bukalapak, TymeBank, Funding Societies, Glints",
+      "venture_type": "Venture Capital",
+      "website": "https://endeavor.org/catalyst",
+      "parsed_investment": {
+        "min": 0,
+        "max": 2000000,
+        "midpoint": 1000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.621Z",
+    "updatedAt": "2025-06-23T22:57:28.412Z",
+    "archived": false
+  },
+  {
+    "id": "35028291614",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.622Z",
+      "email_representative": "palida.j@innopower.co.th",
+      "funding_stage": "Pre-Series A;Series A;Series B;Above Series B;Pre-IPO",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Artificial Intelligence, Renewable Energy",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.353Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/b5092d01-a5f7-4964-8695-0217ce78af12",
+      "hs_object_id": "35028291614",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$3.0M - $300.0M",
+      "name": "Innopower",
+      "notable_portfolio": "CHOOOSE, SHARGE",
+      "venture_type": "Venture Capital",
+      "website": "https://www.innopower.co.th",
+      "parsed_investment": {
+        "min": 3000000,
+        "max": 300000000,
+        "midpoint": 151500000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.622Z",
+    "updatedAt": "2025-06-23T22:57:28.353Z",
+    "archived": false
+  },
+  {
+    "id": "35030417836",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.622Z",
+      "email_representative": "dat@lsip.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A;Series B;Above Series B;Pre-IPO",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Fintech, Web-3.0, E-commerce, Gaming, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.852Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/3c175830-da7d-4f54-882c-1c107fff2bd3",
+      "hs_object_id": "35030417836",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Vietnam",
+      "investment": "-",
+      "name": "Lightspeed",
+      "notable_portfolio": "Aspire, Endowus, Youtrip, Astro",
+      "venture_type": "Venture Capital",
+      "website": "https://lsvp.com",
+      "parsed_investment": {
+        "min": null,
+        "max": null,
+        "midpoint": null
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.622Z",
+    "updatedAt": "2025-06-23T22:57:27.852Z",
+    "archived": false
+  },
+  {
+    "id": "35033050217",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.622Z",
+      "email_representative": "juvenco@skystarcapital.com",
+      "funding_stage": "Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Artificial Intelligence, SaaS, Fintech",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.852Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/6bce7604-10bf-401a-8b8a-b683e6377223",
+      "hs_object_id": "35033050217",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$200.0K - $1.0M",
+      "name": "Skystar Capital",
+      "notable_portfolio": "Julo, Carro, Fuse, Komunal",
+      "venture_type": "Venture Capital",
+      "website": "https://Skystar.vc",
+      "parsed_investment": {
+        "min": 200000,
+        "max": 1000000,
+        "midpoint": 600000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.622Z",
+    "updatedAt": "2025-06-23T22:57:27.852Z",
+    "archived": false
+  },
+  {
+    "id": "35016355649",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.851Z",
+      "email_representative": "contact@cornerstonevc.tw",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Fintech, E-commerce, Proptech, B2B, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.361Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/3c12341c-a06e-43e4-972c-a938f383839f",
+      "hs_object_id": "35016355649",
+      "interested_areas__country_": "Indonesia",
+      "investment": "$200.0K - $1.0M",
+      "name": "Cornerstone Ventures",
+      "notable_portfolio": "ShopBack, Haulio, Omnichat, Return Helper",
+      "venture_type": "Venture Capital",
+      "website": "https://cornerstonevc.tw/en/mainpage/",
+      "parsed_investment": {
+        "min": 200000,
+        "max": 1000000,
+        "midpoint": 600000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.851Z",
+    "updatedAt": "2025-06-23T22:57:28.361Z",
+    "archived": false
+  },
+  {
+    "id": "35028291615",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.851Z",
+      "email_representative": "pang.consultant@adb.org",
+      "funding_stage": "Seed;Pre-Series A;Series A;Series B",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Artificial Intelligence, Logistics, Smart City, B2B, Renewable Energy, ClimateTech",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.013Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/179345e8-cb39-4888-94e4-24d52d77d258",
+      "hs_object_id": "35028291615",
+      "interested_areas__country_": "Indonesia;India;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$100.0K - $4.0M",
+      "name": "ADB Ventures",
+      "notable_portfolio": "E Green Global, Nuventura, Euler Motors, Chickin, Wagely, Fairbanc, Electrifi, Revfin, IBISA, Tiger",
+      "venture_type": "Venture Capital",
+      "website": "https://ventures.adb.org",
+      "parsed_investment": {
+        "min": 100000,
+        "max": 4000000,
+        "midpoint": 2050000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.851Z",
+    "updatedAt": "2025-06-23T22:57:28.013Z",
+    "archived": false
+  },
+  {
+    "id": "35029340567",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.851Z",
+      "email_representative": "tanawat.boonpanya@krungsri.com",
+      "funding_stage": "Pre-Series A;Series A;Series B;Above Series B;Pre-IPO",
+      "hs_industry_group": "Sustainability/Impact Investment, Artificial Intelligence, Marketplace, Adtech/Marketing, SaaS, Fintech, E-commerce",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.428Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/6211a8eb-e72f-4491-afb6-5592b8e9c00e",
+      "hs_object_id": "35029340567",
+      "interested_areas__country_": "Indonesia;Singapore;Malaysia",
+      "investment": "$350.0K - $2.0M",
+      "name": "Krungsri Finnovate",
+      "notable_portfolio": "Grab,Klook, Flash express, Awantunai, Mfast",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://www.krungsrifinnovate.com/",
+      "parsed_investment": {
+        "min": 350000,
+        "max": 2000000,
+        "midpoint": 1175000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.851Z",
+    "updatedAt": "2025-06-23T22:57:28.428Z",
+    "archived": false
+  },
+  {
+    "id": "35031384929",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.851Z",
+      "email_representative": "darren.soh@gharage.sg",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Logistics, SaaS, Non-Tech Ventures, E-commerce, B2B, D2C, Travel",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.983Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/4a2538c8-4ee9-406a-bd04-ee74d00e51eb",
+      "hs_object_id": "35031384929",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand",
+      "investment": "$250.0K - $500.0K",
+      "name": "Gharage",
+      "notable_portfolio": "GoZayaan, Peacom, Returnkey, Zolo, Cube, FileAI, Faro",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://gharage.io/",
+      "parsed_investment": {
+        "min": 250000,
+        "max": 500000,
+        "midpoint": 375000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.851Z",
+    "updatedAt": "2025-06-23T22:57:27.983Z",
+    "archived": false
+  },
+  {
+    "id": "35033060644",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.851Z",
+      "email_representative": "andrew@nonpublic.io",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Logistics, SaaS, Smart City, Fintech, Gaming, Proptech, B2B, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.352Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/17a98f82-cdac-4e4c-9a30-a132ad7e0824",
+      "hs_object_id": "35033060644",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$100.0K - $100.0K",
+      "name": "Orvel Venture",
+      "notable_portfolio": "Clout Kitchen ,BroilerX, Rekosistem, Edge Tutor, Zenith Education, HD mall, Esevel, Ringkas, Evo Commerce",
+      "venture_type": "Venture Capital",
+      "website": "https://Orvel.vc",
+      "parsed_investment": {
+        "min": 100000,
+        "max": 100000,
+        "midpoint": 100000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.851Z",
+    "updatedAt": "2025-06-23T22:57:28.352Z",
+    "archived": false
+  },
+  {
+    "id": "35025554235",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.852Z",
+      "email_representative": "shefali@insignia.vc",
+      "funding_stage": "Seed;Pre-Series A;Series A;Series B;Above Series B",
+      "hs_industry_group": "Sector-Agnostic",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.339Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/6d37987d-3d26-409a-a539-6596d5eb74bb",
+      "hs_object_id": "35025554235",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$1.0M - $15.0M",
+      "name": "Insignia Ventures Partners",
+      "notable_portfolio": "Carro, Ajaib, Appier, GoTo, Intellect, Shipper, Super",
+      "venture_type": "Venture Capital",
+      "website": "https://insignia.vc/",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 15000000,
+        "midpoint": 8000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.852Z",
+    "updatedAt": "2025-06-23T22:57:28.339Z",
+    "archived": false
+  },
+  {
+    "id": "35029672241",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.852Z",
+      "email_representative": "joshua@january.capital",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "Artificial Intelligence, SaaS, Fintech, E-commerce, B2B, Renewable Energy",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.024Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/2f3b17ca-4c41-4224-b2e1-14564e36f235",
+      "hs_object_id": "35029672241",
+      "interested_areas__country_": "Indonesia;Singapore;Whole SEA",
+      "investment": "$500.0K - $1.5M",
+      "name": "January Capital",
+      "notable_portfolio": "aCommerce, Akulaku, Cialfo, heymax.ai, Locofy, , Shopback, Sleek EV, Tazapay",
+      "venture_type": "Venture Capital",
+      "website": "https://www.january.capital/",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 1500000,
+        "midpoint": 1000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.852Z",
+    "updatedAt": "2025-06-23T22:57:28.024Z",
+    "archived": false
+  },
+  {
+    "id": "35033237871",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.852Z",
+      "email_representative": "rj@saisoncapital.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Agritech, Healthtech, Edutech, Artificial Intelligence, Marketplace, Fintech, Web-3.0, E-commerce, Gaming, B2B, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.982Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/96f6172e-e666-4988-a40c-756be1929a30",
+      "hs_object_id": "35033237871",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$100.0K - $1.0M",
+      "name": "Saison Capital",
+      "notable_portfolio": "OY, D3 Labs, Helicap, BroilerX",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://www.saisoncapital.com/",
+      "parsed_investment": {
+        "min": 100000,
+        "max": 1000000,
+        "midpoint": 550000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.852Z",
+    "updatedAt": "2025-06-23T22:57:27.982Z",
+    "archived": false
+  },
+  {
+    "id": "35018695213",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.853Z",
+      "email_representative": "kevin@indelible.vc",
+      "funding_stage": "Pre-Seed;Seed",
+      "hs_industry_group": "Artificial Intelligence, Logistics, SaaS, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.982Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/dc8ab09c-71c3-4bc5-89fe-842347b3b826",
+      "hs_object_id": "35018695213",
+      "interested_areas__country_": "Philippines;Vietnam;Whole SEA",
+      "investment": "$100.0K - $250.0K",
+      "name": "Indelible Ventures",
+      "notable_portfolio": "Runcloud, Vase.ai, KinetixPro, Aye Solutions, Shoppable",
+      "venture_type": "Venture Capital",
+      "website": "https://indelible.vc",
+      "parsed_investment": {
+        "min": 100000,
+        "max": 250000,
+        "midpoint": 175000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.853Z",
+    "updatedAt": "2025-06-23T22:57:27.982Z",
+    "archived": false
+  },
+  {
+    "id": "35030730647",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.853Z",
+      "email_representative": "mail@gobi.vc",
+      "funding_stage": "Seed;Pre-Series A;Series A;Series B;Above Series B",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Non-Tech Ventures, Fintech, Web-3.0, E-commerce, Gaming, Proptech, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.412Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/d82538c2-3bea-4e14-b226-c1430c293cf8",
+      "hs_object_id": "35030730647",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Vietnam",
+      "investment": "$250.0K - $10.0M",
+      "name": "Gobi Partners",
+      "notable_portfolio": "Carsome, Airwallex, Synagistics, Animoca Brands, WeLab, Deliveree, Travelio, Julo, GoWork, Komunal, and 400+ more startup",
+      "venture_type": "Venture Capital",
+      "website": "https://gobi.vc/",
+      "parsed_investment": {
+        "min": 250000,
+        "max": 10000000,
+        "midpoint": 5125000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.853Z",
+    "updatedAt": "2025-06-23T22:57:28.412Z",
+    "archived": false
+  },
+  {
+    "id": "35012851738",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.875Z",
+      "email_representative": "fadhlan@livinglab.ventures",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, SaaS, Smart City, Fintech, E-commerce, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.413Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/d9b8588f-2960-4b9a-9d65-8fbcc0ff3cea",
+      "hs_object_id": "35012851738",
+      "interested_areas__country_": "Indonesia",
+      "investment": "$100.0K - $1.0M",
+      "name": "Living Lab Ventures (LLV)",
+      "notable_portfolio": "Traveloka, Dana, Sirclo",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://livinglab.ventures/",
+      "parsed_investment": {
+        "min": 100000,
+        "max": 1000000,
+        "midpoint": 550000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.875Z",
+    "updatedAt": "2025-06-23T22:57:28.413Z",
+    "archived": false
+  },
+  {
+    "id": "35027306387",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.875Z",
+      "email_representative": "vc@vynncapital.com",
+      "funding_stage": "Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Marketplace, Logistics, Smart City, E-commerce, Renewable Energy, Mobility, Transportation",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.024Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/1b20276c-c6cc-4117-874f-70a931e961a6",
+      "hs_object_id": "35027306387",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand",
+      "investment": "$500.0K - $1.0M",
+      "name": "Vynn Capital",
+      "notable_portfolio": "Travelio, Carsome, Borong, InsightGenie",
+      "venture_type": "Venture Capital",
+      "website": "https://vynncapital.com/",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 1000000,
+        "midpoint": 750000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.875Z",
+    "updatedAt": "2025-06-23T22:57:28.024Z",
+    "archived": false
+  },
+  {
+    "id": "35028465548",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.875Z",
+      "email_representative": "toby@kayafounders.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Fintech, E-commerce, Gaming, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.980Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/cc396716-2cb2-497b-9dae-288cafa941a2",
+      "hs_object_id": "35028465548",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$150.0K - $500.0K",
+      "name": "Kaya Founders",
+      "notable_portfolio": "Locad, Etaily, Kindred, Edge Tutor, Netbank, PCX, GoEden, Britana, Mobee, Onelot, Sourcy, Armada, RuralNet, PayMongo, NoneAway",
+      "venture_type": "Venture Capital",
+      "website": "https://www.kayafounders.com",
+      "parsed_investment": {
+        "min": 150000,
+        "max": 500000,
+        "midpoint": 325000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.875Z",
+    "updatedAt": "2025-06-23T22:57:27.980Z",
+    "archived": false
+  },
+  {
+    "id": "35028471389",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.875Z",
+      "email_representative": "Terrence@meetventures.com",
+      "funding_stage": "Pre-Seed;Seed",
+      "hs_industry_group": "Sustainability/Impact Investment, Healthtech, Edutech, Artificial Intelligence, Media, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Non-Tech Ventures, Fintech, Proptech, B2B, Renewable Energy",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.361Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/69d3441b-d938-4ee3-ae1b-9885a524011d",
+      "hs_object_id": "35028471389",
+      "interested_areas__country_": "Indonesia;Singapore;Whole SEA",
+      "investment": "Up to $500.0K",
+      "name": "Meet Capital (Investment arm of Meet Ventures)",
+      "notable_portfolio": "INKNOE, Stayhere.Asia, Mentogram",
+      "venture_type": "Venture Capital",
+      "website": "https://www.meetventures.com/meet-capital",
+      "parsed_investment": {
+        "min": 0,
+        "max": 500000,
+        "midpoint": 250000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.875Z",
+    "updatedAt": "2025-06-23T22:57:28.361Z",
+    "archived": false
+  },
+  {
+    "id": "35029995922",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.875Z",
+      "email_representative": "nathan.kawpeng@foxmontcapital.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Non-Tech Ventures, Fintech, E-commerce, Gaming, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.429Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/6f3fbe54-6f42-41c1-a513-0c0d3ca16139",
+      "hs_object_id": "35029995922",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$500.0K - $2.0M",
+      "name": "Foxmont Capital Partners",
+      "notable_portfolio": "prefer not to enumerate - no favoritism 🙂",
+      "venture_type": "Venture Capital",
+      "website": "https://foxmontcapital.com/",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 2000000,
+        "midpoint": 1250000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.875Z",
+    "updatedAt": "2025-06-23T22:57:28.429Z",
+    "archived": false
+  },
+  {
+    "id": "35030891320",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.875Z",
+      "email_representative": "justin@nexea.co",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Non-Tech Ventures, Fintech, Web-3.0, E-commerce, Gaming, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.505Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/1ce6230f-9861-4ab7-80d3-7df961726013",
+      "hs_object_id": "35030891320",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$50.0K - $50.0K",
+      "name": "NEXEA Ventures",
+      "notable_portfolio": "Lapasar, ParkIt, Doople, Krenovator, Cult Creative",
+      "venture_type": "Venture Capital",
+      "website": "https://www.nexea.co",
+      "parsed_investment": {
+        "min": 50000,
+        "max": 50000,
+        "midpoint": 50000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.875Z",
+    "updatedAt": "2025-06-23T22:57:28.505Z",
+    "archived": false
+  },
+  {
+    "id": "35032567140",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.875Z",
+      "email_representative": "andrew@nonpublic.io",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A;Series B;Pre-IPO",
+      "hs_industry_group": "Agritech, Healthtech, Edutech, Artificial Intelligence, Adtech/Marketing, SaaS, Gaming, B2B, D2C",
+      "hs_lastmodifieddate": "2025-06-30T20:40:23.734Z",
+      "hs_logo_url": "https://46071435.fs1.hubspotusercontent-na1.net/hubfs/46071435/2025%20SEA%20VC%20Company%20Logo/20_div_20.png",
+      "hs_object_id": "35032567140",
+      "interested_areas__country_": "Vietnam",
+      "investment": "$100.0K - $200.0K",
+      "name": "Ascend Angels",
+      "notable_portfolio": "Eratani, Fresh Factory, Evo Commerce, Heymax, Turtle Tree Labs, Horangi, Groq AI, and XAI",
+      "venture_type": "Angels Syndicate",
+      "website": "https://www.ascendangels.com/",
+      "parsed_investment": {
+        "min": 100000,
+        "max": 200000,
+        "midpoint": 150000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.875Z",
+    "updatedAt": "2025-06-30T20:40:23.734Z",
+    "archived": false
+  },
+  {
+    "id": "35017013639",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.876Z",
+      "email_representative": "Darren@incubatefund.com",
+      "funding_stage": "Pre-Seed;Seed;Series B;Above Series B;Pre-IPO",
+      "hs_industry_group": "Agritech, Logistics, SaaS, Fintech, Proptech, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.983Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/3e91923a-db3a-44d8-a1f5-3bd12d693d35",
+      "hs_object_id": "35017013639",
+      "interested_areas__country_": "Indonesia",
+      "investment": "$500.0K - $15.0M",
+      "name": "Incubate Fund Asia",
+      "notable_portfolio": "Paper.id, Stealth pre-seed",
+      "venture_type": "Venture Capital",
+      "website": "https://incubatefund.in/",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 15000000,
+        "midpoint": 7750000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.876Z",
+    "updatedAt": "2025-06-23T22:57:27.983Z",
+    "archived": false
+  },
+  {
+    "id": "35025399817",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.876Z",
+      "email_representative": "aadiputra@dsgcp.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A;Series B",
+      "hs_industry_group": "D2C, Consumer",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.352Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/03dc8e45-c1c6-47c7-845d-748e03a3a2e9",
+      "hs_object_id": "35025399817",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$250.0K - $5.0M",
+      "name": "DSG Consumer Partners",
+      "notable_portfolio": "Veeba, Epigamia, Pickup Coffee, SaladStop!, Blood, Saturdays",
+      "venture_type": "Venture Capital",
+      "website": "https://www.dsgcp.com/",
+      "parsed_investment": {
+        "min": 250000,
+        "max": 5000000,
+        "midpoint": 2625000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.876Z",
+    "updatedAt": "2025-06-23T22:57:28.352Z",
+    "archived": false
+  },
+  {
+    "id": "35029351596",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.876Z",
+      "email_representative": "romario@icx.id",
+      "funding_stage": "Seed",
+      "hs_industry_group": "Non-Tech Ventures, Fintech, Web-3.0, B2B, D2C",
+      "hs_lastmodifieddate": "2025-06-30T20:38:32.940Z",
+      "hs_logo_url": "https://46071435.fs1.hubspotusercontent-na1.net/hubfs/46071435/2025%20SEA%20VC%20Company%20Logo/63_div_63.png",
+      "hs_object_id": "35029351596",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Vietnam;Whole SEA",
+      "investment": "$100.0K - $500.0K",
+      "name": "ICX Group",
+      "notable_portfolio": "Olaif, Web 3 (confidential), Tosmart Vending Machine",
+      "venture_type": "Holding Company of ICX",
+      "website": "https://icx.id/",
+      "parsed_investment": {
+        "min": 100000,
+        "max": 500000,
+        "midpoint": 300000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.876Z",
+    "updatedAt": "2025-06-30T20:38:32.940Z",
+    "archived": false
+  },
+  {
+    "id": "35029511848",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.876Z",
+      "email_representative": "alex@javaskapital.com",
+      "funding_stage": "Pre-Seed;Seed",
+      "hs_industry_group": "Healthtech, Artificial Intelligence, SaaS, Smart City, Gaming, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.428Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/8d3c15d3-d40e-4b1d-95be-eeaea49db233",
+      "hs_object_id": "35029511848",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$10.0K - $150.0K",
+      "name": "javas Venture",
+      "notable_portfolio": "Melibio (USA), Grouu (ID), Infina (VN), Altech Omega (ID), ReMd Medclinic (SG)",
+      "venture_type": "Venture Capital",
+      "website": "https://www.crunchbase.com/organization/javas-venture-llc",
+      "parsed_investment": {
+        "min": 10000,
+        "max": 150000,
+        "midpoint": 80000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.876Z",
+    "updatedAt": "2025-06-23T22:57:28.428Z",
+    "archived": false
+  },
+  {
+    "id": "35033050218",
+    "properties": {
+      "createdate": "2025-06-13T07:41:51.876Z",
+      "email_representative": "jesslyn@accessvc.co",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Edutech, Artificial Intelligence, Marketplace, Logistics, Human Resources, Fintech, Web-3.0, E-commerce, Gaming, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.428Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/8585a321-8221-49b5-82ab-744bbc4e3bd9",
+      "hs_object_id": "35033050218",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$500.0K - $1.5M",
+      "name": "Access Ventures",
+      "notable_portfolio": "Spoon Radio, Tokotalk, Moca",
+      "venture_type": "Venture Capital",
+      "website": "https://www.accessvc.co/",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 1500000,
+        "midpoint": 1000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:51.876Z",
+    "updatedAt": "2025-06-23T22:57:28.428Z",
+    "archived": false
+  },
+  {
+    "id": "35027139450",
+    "properties": {
+      "createdate": "2025-06-13T07:41:52.093Z",
+      "email_representative": "simon@founderslaunchpad.vc",
+      "funding_stage": "Pre-Seed;Seed",
+      "hs_industry_group": "Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Non-Tech Ventures, Fintech, E-commerce, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-30T20:36:55.138Z",
+      "hs_logo_url": "https://46071435.fs1.hubspotusercontent-na1.net/hubfs/46071435/2025%20SEA%20VC%20Company%20Logo/50_div_50.png",
+      "hs_object_id": "35027139450",
+      "interested_areas__country_": "Indonesia;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$50.0K - $100.0K",
+      "name": "Founders Launchpad",
+      "notable_portfolio": "Clout Kitchen, Motorento, OneLot",
+      "venture_type": "Venture Capital",
+      "website": "https://www.founderslaunchpad.vc",
+      "parsed_investment": {
+        "min": 50000,
+        "max": 100000,
+        "midpoint": 75000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:52.093Z",
+    "updatedAt": "2025-06-30T20:36:55.138Z",
+    "archived": false
+  },
+  {
+    "id": "35030417837",
+    "properties": {
+      "createdate": "2025-06-13T07:41:52.093Z",
+      "email_representative": "tyler@innovencapital.com",
+      "funding_stage": "Pre-Series A;Series A;Series B;Above Series B;Pre-IPO",
+      "hs_industry_group": "Agnostic",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.339Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/b20f9897-0831-480d-ad8e-3cc50152ff35",
+      "hs_object_id": "35030417837",
+      "interested_areas__country_": "Global",
+      "investment": "$500.0K - $10.0M",
+      "name": "InnoVen Capital SEA",
+      "notable_portfolio": "Atome Financial, Rainforest, Pickup Coffee, Akulaku, Dat Bike, VuiHoc, 17 Live, Carsome, Nium",
+      "venture_type": "Venture Debt",
+      "website": "https://www.innovencapital.com",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 10000000,
+        "midpoint": 5250000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:52.093Z",
+    "updatedAt": "2025-06-23T22:57:28.339Z",
+    "archived": false
+  },
+  {
+    "id": "35031384930",
+    "properties": {
+      "createdate": "2025-06-13T07:41:52.093Z",
+      "email_representative": "linh.nguyen@ansible.ventures",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "Healthtech, Edutech, Artificial Intelligence, SaaS, B2B, Consumer Tech, Fintech",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.983Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/35cc7944-fb51-4685-9d93-9e1782d859e7",
+      "hs_object_id": "35031384930",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$500.0K - $1.5M",
+      "name": "Ansible Ventures",
+      "notable_portfolio": "NativeX, Lixibox, Zumwhere",
+      "venture_type": "Venture Capital",
+      "website": "https://ansible.ventures/",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 1500000,
+        "midpoint": 1000000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:52.093Z",
+    "updatedAt": "2025-06-23T22:57:27.983Z",
+    "archived": false
+  },
+  {
+    "id": "35031384931",
+    "properties": {
+      "createdate": "2025-06-13T07:41:52.093Z",
+      "email_representative": "investments@a2dventures.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, SaaS, Non-Tech Ventures, Fintech, E-commerce, Proptech, B2B, Renewable Energy, D2C, Biotech, Deeptech, Tourism",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.505Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/ad55fd78-0f52-47ac-9bc4-3d453fe26566",
+      "hs_object_id": "35031384931",
+      "interested_areas__country_": "Indonesia;Philippines;Vietnam",
+      "investment": "$100.0K - $300.0K",
+      "name": "A2D Ventures",
+      "notable_portfolio": "https://www.a2dventures.com/portfolio",
+      "venture_type": "Angel Syndicate & Platform",
+      "website": "https://www.a2dventures.com",
+      "parsed_investment": {
+        "min": 100000,
+        "max": 300000,
+        "midpoint": 200000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:52.093Z",
+    "updatedAt": "2025-06-23T22:57:28.505Z",
+    "archived": false
+  },
+  {
+    "id": "35032730024",
+    "properties": {
+      "createdate": "2025-06-13T07:41:52.093Z",
+      "email_representative": "eongko@b.capital",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A;Series B;Above Series B;Pre-IPO",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Non-Tech Ventures, Fintech, Web-3.0, E-commerce, Gaming, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-30T20:39:23.211Z",
+      "hs_logo_url": "https://46071435.fs1.hubspotusercontent-na1.net/hubfs/46071435/2025%20SEA%20VC%20Company%20Logo/24_div_24.png",
+      "hs_object_id": "35032730024",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$1.0M - $100.0M",
+      "name": "B capital",
+      "notable_portfolio": "Kopi Kenangan, Carro, Brik, Payfazz, Ninja Van, VNG",
+      "venture_type": "Venture Capital",
+      "website": "https://b.capital/",
+      "parsed_investment": {
+        "min": 1000000,
+        "max": 100000000,
+        "midpoint": 50500000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:52.093Z",
+    "updatedAt": "2025-06-30T20:39:23.211Z",
+    "archived": false
+  },
+  {
+    "id": "35016355650",
+    "properties": {
+      "createdate": "2025-06-13T07:41:52.094Z",
+      "email_representative": "Investment@orbitstartups.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Fintech, Web-3.0, E-commerce, Proptech, B2B, Circular Economy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.506Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/2e7c771e-39d7-4357-aed8-f2255c58c9e1",
+      "hs_object_id": "35016355650",
+      "interested_areas__country_": "Indonesia;Singapore",
+      "investment": "$100.0K - $500.0K",
+      "name": "Orbit Startups",
+      "notable_portfolio": "BigGo, Zoth, MyRobin, iMotorbike, Smartbite, Viact, Allrites, Bitmex, Tappytoon, Videoverse, Elsa, PriceOYE, 24Seven, Flickstree, TradeTogether",
+      "venture_type": "Venture Capital",
+      "website": "https://www.OrbitStartups.com",
+      "parsed_investment": {
+        "min": 100000,
+        "max": 500000,
+        "midpoint": 300000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:52.094Z",
+    "updatedAt": "2025-06-23T22:57:28.506Z",
+    "archived": false
+  },
+  {
+    "id": "35029679909",
+    "properties": {
+      "createdate": "2025-06-13T07:41:52.094Z",
+      "email_representative": "dealteam@m-venturepartners.com",
+      "funding_stage": "Pre-Seed;Seed;Series A",
+      "hs_industry_group": "Sustainability/Impact Investment, Agritech, Healthtech, Edutech, Artificial Intelligence, Media, Marketplace, Adtech/Marketing, Logistics, Human Resources, SaaS, Smart City, Non-Tech Ventures, Fintech, E-commerce, Gaming, Proptech, B2B, Renewable Energy, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.984Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/253a6608-85e0-4465-8ce1-c8e67d1a9b30",
+      "hs_object_id": "35029679909",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "$250.0K - $1.5M",
+      "name": "MVP (M Venture Partners)",
+      "notable_portfolio": "HD, Naluri, ProCredit, Armada Brands, Pallav, MAKA Motors, Sirius Technologies",
+      "venture_type": "Venture Capital",
+      "website": "https://www.m-venturepartners.com/",
+      "parsed_investment": {
+        "min": 250000,
+        "max": 1500000,
+        "midpoint": 875000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:52.094Z",
+    "updatedAt": "2025-06-23T22:57:27.984Z",
+    "archived": false
+  },
+  {
+    "id": "35030895886",
+    "properties": {
+      "createdate": "2025-06-13T07:41:52.094Z",
+      "email_representative": "nsaad@dcg.co",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A;Series A",
+      "hs_industry_group": "Artificial Intelligence, Fintech, Web-3.0",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.980Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/273d0d67-fee1-4497-ad35-0b236a11f36e",
+      "hs_object_id": "35030895886",
+      "interested_areas__country_": "Whole SEA",
+      "investment": "$100.0K - $500.0K",
+      "name": "DCG",
+      "notable_portfolio": "Coinbase, Circle, Polkadot, Uniswap, Kraken, etc.",
+      "venture_type": "Corporate Venture Capital",
+      "website": "https://dcg.co/",
+      "parsed_investment": {
+        "min": 100000,
+        "max": 500000,
+        "midpoint": 300000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:52.094Z",
+    "updatedAt": "2025-06-23T22:57:27.980Z",
+    "archived": false
+  },
+  {
+    "id": "35032257821",
+    "properties": {
+      "createdate": "2025-06-13T07:41:52.094Z",
+      "email_representative": "zhonghan.tong@thehivesea.com",
+      "funding_stage": "Pre-Seed;Seed;Pre-Series A",
+      "hs_industry_group": "Agritech, Healthtech, Edutech, Artificial Intelligence, Marketplace, Smart City, E-commerce, Proptech, B2B, D2C",
+      "hs_lastmodifieddate": "2025-06-23T22:57:28.012Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/b0f8478e-122f-40f0-93f2-32084a372c4e",
+      "hs_object_id": "35032257821",
+      "interested_areas__country_": "Indonesia;Singapore;Malaysia",
+      "investment": "$500.0K - $500.0K",
+      "name": "The Hive Southeast Asia",
+      "notable_portfolio": "iMotorbike, ThoughtFull, Senang Insurance, Halogen, Collektr",
+      "venture_type": "Venture Capital",
+      "website": "https://www.thehivesea.com/",
+      "parsed_investment": {
+        "min": 500000,
+        "max": 500000,
+        "midpoint": 500000
+      }
+    },
+    "createdAt": "2025-06-13T07:41:52.094Z",
+    "updatedAt": "2025-06-23T22:57:28.012Z",
+    "archived": false
+  },
+  {
+    "id": "35032567141",
+    "properties": {
+      "createdate": "2025-06-13T07:41:52.095Z",
+      "email_representative": "mayank.jain@thinkuvate.com",
+      "funding_stage": "Pre-Series A;Series A",
+      "hs_industry_group": "Healthtech, Edutech, Adtech/Marketing, SaaS, Fintech, B2B",
+      "hs_lastmodifieddate": "2025-06-23T22:57:27.980Z",
+      "hs_logo_url": "https://na1.hubspot-logos.com/2e8e4efe-c189-4d1d-ae0a-6ae356db251e",
+      "hs_object_id": "35032567141",
+      "interested_areas__country_": "Indonesia;Singapore;Philippines;Malaysia;Vietnam;Thailand;Whole SEA",
+      "investment": "From $150.0K",
+      "name": "ThinKuvate Ventures Singapore",
+      "notable_portfolio": "CureSkin, Vidyakul, Wootag",
+      "venture_type": "Venture Capital",
+      "website": "https://www.thinkuvate.com",
+      "parsed_investment": {
+        "min": null,
+        "max": null,
+        "midpoint": null
+      }
+    },
+    "createdAt": "2025-06-13T07:41:52.095Z",
+    "updatedAt": "2025-06-23T22:57:27.980Z",
+    "archived": false
+  }
+]
