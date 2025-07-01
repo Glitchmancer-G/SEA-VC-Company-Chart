@@ -490,7 +490,7 @@
         async function fetchCompanies() {
             try {
                 errorContainer.textContent = '';
-                const response = await fetch('/companies.json'); // Relative path to JSON file
+                const response = await fetch('SEA-VC-Company-Chart/companies.json'); // Relative path to JSON file
                 if (!response.ok) {
                     throw new Error(`HTTP error! Status: ${response.status}`);
                 }
